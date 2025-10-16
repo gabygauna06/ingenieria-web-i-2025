@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=libreta
+comment0.target=LibretaManejadorDeArchivos(LibretaDeDirecciones)
+comment0.text=\nConstructor\ de\ objetos\ de\ la\ clase\ LibretaManejadorDeArchivos.\n@param\ libreta\ La\ libreta\ de\ direcciones\ que\ se\ va\ a\ usar.\n\n
+comment1.params=prefijo
+comment1.target=void\ grabarResultadoDeBusqueda(String)
+comment1.text=\nGraba\ los\ resultados\ de\ una\ busqueda\ en\ la\ libreta\ en\nel\ archivo\ "resultados.txt"\ situado\ en\ la\ carpeta\ del\ proyecto.\n@param\ prefijo\ El\ prefijo\ de\ la\ clave\ a\ buscar.\n@throws\ IOException\ Si\ el\ proceso\ de\ escritura\ falla\ por\ cualquier\ raz\u00F3n.\n\n
+comment2.target=void\ mostrarResultadoDeBusqueda()
+comment2.text=\nMuestra\ los\ resultados\ de\ la\ llamada\ m\u00E1s\ reciente\ a\ngrabarResultadoDeBusqueda.\ La\ salida\ es\ en\ la\ consola,\nse\ informa\ cualquier\ problema\ directamente\ desde\ este\ metodo.\n\n
+comment3.params=nombreArchivo
+comment3.target=void\ agregarEntradasDesdeArchivo(String)
+comment3.text=\nAgrega\ entradas\ adicionales\ a\ la\ libreta\ de\ direcciones\ desde\nun\ archivo\ de\ texto.\ Se\ asume\ que\ el\ archivo\ contiene\ un\nelemento\ por\ l\u00EDnea,\ m\u00E1s\ una\ l\u00EDnea\ en\ blanco\ para\ cada\ entrada\:\nnombre\ \\n\ tel\u00E9fono\ \\n\ direcci\u00F3n\ \\n\ \\n\nUna\ l\u00EDnea\ deber\u00EDa\ estar\ en\ blanco\ solamente\ si\ falta\ ese\ dato.\n@param\ nombreArchivo\ El\ archivo\ de\ texto\ que\ contiene\ el\ contacto.\n@throws\ IOException\ En\ fallo\ de\ salida.\n\n
+comment4.params=archivoFuente
+comment4.target=LibretaDeDirecciones\ readFromFile(String)
+comment4.text=\nLee\ la\ versi\u00F3n\ binaria\ de\ la\ libreta\ de\ direcciones\ desde\ un\narchivo.\ Si\ el\ nombre\ no\ es\ un\ camino\ absoluto,\ se\ asume\nrelativo\ al\ directorio\ del\ proyecto.\n@param\ archivoFuente\ El\ archivo\ desde\ el\ cual\ leer\ los\ contactos.\n@return\ El\ objecto\ libretaDeDirecciones.\n@throws\ IOException\ Si\ el\ proceso\ de\ lectura\ falla\ por\ cualquier\ raz\u00F3n.\n\n
+comment5.params=archivoDestino
+comment5.target=void\ saveToFile(String)
+comment5.text=\nGraba\ una\ versi\u00F3n\ binaria\ de\ la\ libreta\ de\ direcciones\ en\ un\narchivo.\ Si\ el\ nombre\ no\ es\ un\ camino\ absoluto,\ se\ asume\nrelativo\ al\ directorio\ del\ proyecto.\n@param\ archivoDestino\ El\ nombre\ del\ archivo\ para\ grabar\ los\ contactos.\n@throws\ IOException\ Si\ el\ proceso\ de\ escritura\ falla\ por\ cualquier\ raz\u00F3n.\n\n
+comment6.params=nombreArchivo
+comment6.target=File\ crearNombreDeArchivoAbsoluto(String)
+comment6.text=\nCrea\ un\ nombre\ de\ archivo\ absoluto\ para\ el\ nombre\ dado.\nSi\ el\ nombre\ ya\ es\ absoluto,\ entonces\ se\ lo\ utiliza,\ en\ caso\ncontrario,\ se\ asume\ que\ es\ relativo\ al\ directorio\ del\ proyecto.\n@throws\ IOException\ Si\ no\ se\ puede\ crear\ un\ nombre\ de\ archivo\ v\u00E1lido.\n\n
+comment7.target=File\ getDirectorioDelProyecto()
+comment7.text=\nSe\ intenta\ determinar\ el\ nombre\ del\ directorio\ del\ proyecto.\nEste\ proceso\ requiere\ encontrar\ el\ camino\ del\ archivo\ .class\npara\ esta\ clase\ y\ luego\ extraer\ el\ nombre\ del\ directorio\ que\nlo\ contiene.\n@throws\ URISyntaxException\ Si\ la\ URL\ no\ est\u00E1\ formateada\ correctamente.\n@return\ El\ directorio\ del\ proyecto.\n\n
+numComments=8

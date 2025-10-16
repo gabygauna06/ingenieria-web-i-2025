@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Analizador
+comment0.text=\n\ Esta\ clase\ es\ parte\ de\ la\ apliciacin\ "World\ of\ Zuul".\ \n\ "World\ of\ Zuul"\ es\ un\ juego\ de\ aventuras\ sencillo\ basado\ en\ texto.\ \ \n\ \n\ Este\ analizador\ lee\ las\ entradas\ ingresadas\ por\ el\ usuario\ e\ intenta\ \n\ interpretarlas\ como\ un\ cmando.\ Cada\ vez\ que\ es\ llamado\ lee\ una\ linea\n\ del\ termina\ e\ intenta\ interpretar\ esta\ linea\ como\ dos\ palabras\ comando,\n\ devilviendo\ el\ comando\ como\ un\ objeto\ de\ la\ clase\ comando.\n\n\ El\ analizador\ contiene\ un\ set\ de\ palabras\ comando\ conocidas.\ Verifica\ si\ \n\ las\ entradas\ del\ usuario\ son\ comandos\ conocidos,\ y\ si\ no\ lo\ son,\ devuelve\ \n\ un\ objeto\ comando\ que\ marcado\ como\ comando\ desconocido.\n\ \n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=Analizador()
+comment1.text=\n\ Crea\ un\ analizador\ para\ leer\ desde\ una\ terminal.\n
+comment2.params=
+comment2.target=Comando\ getComando()
+comment2.text=\n\ @return\ el\ siguiente\ comando\ del\ usuario\n
+comment3.params=
+comment3.target=void\ mostrarComandos()
+comment3.text=\n\ Imprime\ una\ lista\ de\ todos\ los\ comandos\ v\uFFFDlidos.\n
+numComments=4

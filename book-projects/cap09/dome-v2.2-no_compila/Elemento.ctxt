@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=elTitulo\ tiempo
+comment0.target=Elemento(String,\ int)
+comment0.text=\nInicializa\ los\ campos\ del\ elemento.\n@param\ elTitulo\ El\ titulo\ del\ elemento.\n@param\ tiempo\ El\ tiempo\ que\ dura\ el\ elemento.\n\n
+comment1.params=comentario
+comment1.target=void\ setComentario(String)
+comment1.text=\nAsigna\ un\ comentario\ para\ este\ elemento.\n@param\ comentario\ El\ comentario\ que\ se\ ingresara.\n\n
+comment2.target=String\ getComentario()
+comment2.text=\n@return\ El\ comentario\ de\ este\ elemento.\n\n
+comment3.params=mePertenece
+comment3.target=void\ setLoTengo(boolean)
+comment3.text=\nAsigna\ el\ valor\ a\ la\ bandera\ que\ indica\ si\ tenemos\ este\ elemento.\n@param\ mePertenece\ true\ si\ tenemos\ el\ elemento,\ false\ en\ caso\ contrario.\n\n
+comment4.target=boolean\ getLoTengo()
+comment4.text=\n@return\ true\ si\ tenemos\ una\ copia\ de\ este\ elemento.\n\n
+numComments=5

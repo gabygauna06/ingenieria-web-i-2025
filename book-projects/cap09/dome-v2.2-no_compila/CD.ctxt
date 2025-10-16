@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=elTitulo\ elInterprete\ temas\ tiempo
+comment0.target=CD(String,\ String,\ int,\ int)
+comment0.text=\nInicializa\ el\ CD.\n@param\ elTitulo\ El\ titulo\ del\ CD.\n@param\ elInterprete\ El\ interprete\ del\ CD.\n@param\ temas\ El\ numero\ de\ temas\ del\ CD.\n@param\ tiempo\ El\ tiempo\ que\ dura\ el\ CD.\n\n
+comment1.target=String\ getArtista()
+comment1.text=\n@return\ El\ interprete\ de\ este\ CD.\n\n
+comment2.target=int\ getNumeroDeTemas()
+comment2.text=\n@return\ El\ numero\ de\ temas\ de\ este\ CD.\n\n
+numComments=3

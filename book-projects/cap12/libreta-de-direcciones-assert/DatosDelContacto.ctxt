@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=nombre\ telefono\ direccion
+comment0.target=DatosDelContacto(String,\ String,\ String)
+comment0.text=\nEstablece\ los\ datos\ del\ contacto.\ A\ todos\ los\ datos\ se\ les\neliminan\ los\ posibles\ espacios\ en\ blanco\ al\ final.\n@param\ nombre\ El\ nombre.\n@param\ telefono\ El\ n\u00FAmero\ de\ tel\u00E9fono.\n@param\ direccion\ La\ direcci\u00F3n.\n@throws\ IllegalStateException\ Si\ el\ nombre\ y\ el\ tel\u00E9fono\ est\u00E1n\ vac\u00EDos.\n\n
+comment1.target=String\ getNombre()
+comment1.text=\n@return\ El\ nombre.\n\n
+comment2.target=String\ getTelefono()
+comment2.text=\n@return\ El\ n\u00FAmero\ de\ tel\u00E9fono.\n\n
+comment3.target=String\ getDireccion()
+comment3.text=\n@return\ La\ direcci\u00F3n.\n\n
+comment4.params=otro
+comment4.target=boolean\ equals(Object)
+comment4.text=\nVerifica\ la\ igualdad\ de\ contenidos\ entre\ dos\ objetos.\n@param\ otro\ El\ objeto\ a\ comparar\ con\ este.\n@return\ true\ si\ el\ argumento\ del\ objeto\ es\ un\ conjunto\ de\ datos\ndel\ contacto\ que\ coinciden\ sus\ atributos.\n\n
+comment5.params=otroContacto
+comment5.target=int\ compareTo(DatosDelContacto)
+comment5.text=\nCompara\ el\ contacto\ contra\ otro,\ con\ el\ objetivo\ de\ ordenar.\nLos\ campos\ para\ ordenar\ son\ nombre,\ tel\u00E9fono\ y\ direcci\u00F3n.\n@param\ otroContacto\ El\ contacto\ contra\ cual\ comparar.\n@return\ un\ entero\ negativo\ si\ se\ encuentra\ antes\ del\ parametro,\ncero\ si\ son\ iguales\ y\ un\ entero\ positivo\ si\ se\ encuentra\ndespu\u00E9s\ del\ segundo.\n\n
+comment6.target=String\ toString()
+comment6.text=\n@return\ Un\ texto\ de\ multiples\ lineas\ conteniendo\ el\ nombre,\nel\ telefono\ y\ la\ direccion.\n\n
+comment7.target=int\ hashCode()
+comment7.text=\nCalcula\ un\ codigo\ de\ dispersion\ utilizando\ las\ reglas\ dadas\nen\ "Java\ Efectivo",\ de\ Joshua\ Bloch.\n@return\ Un\ codigo\ de\ dispersion\ para\ DatosDelContacto.\n\n
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjemploDisenoFlujo()
+comment0.text=\nConstructor\ de\ los\ objectos\ de\ la\ clase\ EjemploDisenoCaja\n\n
+comment1.target=void\ construirVentana()
+comment1.text=\nUbica\ cinco\ componentes\ en\ las\ regiones\ disponibles.\n\n
+numComments=2

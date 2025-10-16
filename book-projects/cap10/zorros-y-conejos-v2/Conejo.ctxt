@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Conejo
+comment0.text=\n\ Un\ modelo\ sencillo\ de\ conejo.\n\ Los\ conejos\ nacen,\ se\ mueven,\ comen\ y\ mueren.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=edadPorAzar
+comment1.target=Conejo(boolean)
+comment1.text=\n\ Crea\ un\ nuevo\ conejo.\ Se\ puede\ crear\ un\ conejo\ con\ edad\n\ cero\ (un\ nuevo\ nacimiento)\ o\ con\ edad\ por\ azar.\n\ \n\ @param\ edadPorAzar\ Si\ es\ true,\ el\ conejo\ tendr\u00E1\ una\ edad\ por\ azar.\n
+comment2.params=campoActual\ campoActualizado\ nuevosAnimales
+comment2.target=void\ act(Campo,\ Campo,\ java.util.List)
+comment2.text=\n\ Esto\ es\ lo\ que\ hace\ el\ conejo\ la\ mayor\ parte\ del\ tiempo,\ corre\ por\n\ todas\ partes.\ Algunas\ veces\ se\ reproducir\u00E1\ o\ morir\u00E1\ de\ viejo.\n\ @param\ campoActual\ El\ campo\ en\ el\ estado\ inicial.\n\ @param\ campoActualizado\ El\ campo\ al\ que\ se\ traslada.\n\ @param\ nuevosAnimales\ Una\ lista\ en\ la\ que\ se\ agregan\ los\ nuevos\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ conejos\ que\ nacen.\n
+comment3.params=
+comment3.target=void\ incrementarEdad()
+comment3.text=\n\ Aumenta\ la\ edad.\n\ Podr\u00EDa\ dar\ por\ resultado\ la\ muerte\ del\ conejo.\n
+comment4.params=
+comment4.target=int\ reproducir()
+comment4.text=\n\ Genera\ un\ n\u00FAmero\ que\ representa\ el\ n\u00FAmero\ de\ nacimientos,\n\ si\ es\ que\ el\ conejo\ se\ puede\ reproducir.\n\ @return\ El\ n\u00FAmero\ de\ nacimientos\ (puede\ ser\ cero).\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ @return\ Un\ texto\ que\ representa\ al\ conejo.\n
+comment6.params=
+comment6.target=boolean\ sePuedeReproducir()
+comment6.text=\n\ El\ conejo\ se\ puede\ reproducir\ si\ alcanz\u00F3\ la\ edad\ de\ reproducci\u00F3n.\n
+numComments=7

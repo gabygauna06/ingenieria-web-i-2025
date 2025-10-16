@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Contador
+comment0.text=\n\ Provee\ un\ contador\ para\ cada\ participante\ de\ la\ simulaci\u00F3n.\n\ Esto\ incluye\ un\ texto\ identificador\ y\ la\ cantidad\ de\n\ participantes\ de\ este\ tipo\ que\ existen\ en\ cada\ momento\n\ de\ la\ simulaci\u00F3n.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=nombre
+comment1.target=Contador(java.lang.String)
+comment1.text=\n\ Provee\ un\ nombre\ para\ uno\ de\ los\ tipos\ de\ la\ simulaci\u00F3n.\n\ @param\ nombre\ Un\ nombre,\ por\ ej.\ "Zorro".\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\n\ @return\ Descripci\u00F3n\ corta\ de\ este\ tipo.\n
+comment3.params=
+comment3.target=int\ getCantidad()
+comment3.text=\n\ @return\ La\ cantidad\ actual\ de\ este\ tipo.\n
+comment4.params=
+comment4.target=void\ incrementar()
+comment4.text=\n\ Incrementar\ la\ cantidad\ en\ uno.\n
+comment5.params=
+comment5.target=void\ reiniciar()
+comment5.text=\n\ Reiniciar\ la\ cantidad\ a\ cero.\n
+numComments=6

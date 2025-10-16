@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PanelDeImagen
+comment0.text=\n\ Un\ PanelDeImagen\ es\ un\ componente\ de\ Swing\ que\ puede\ mostrar\ una\ ImagenOF.\n\ Est\u00E1\ constru\u00EDdo\ como\ una\ subclase\ de\ JComponent\ con\ la\ funcionalidad\n\ adicional\ de\ establecer\ una\ ImagenOF\ que\ se\ mostrar\u00E1\ en\ la\ superficie\n\ de\ este\ componente.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=PanelDeImagen()
+comment1.text=\n\ Crea\ un\ PanelDeImagen\ nuevo\ vac\u00EDo.\n
+comment2.params=imagen
+comment2.target=void\ setImagen(ImagenOF)
+comment2.text=\n\ Establece\ la\ imagen\ que\ este\ panel\ debe\ mostrar.\n\ \n\ @param\ imagen\ \ La\ imagen\ que\ se\ mostrar\u00E1.\n
+comment3.params=
+comment3.target=void\ borrarImagen()
+comment3.text=\n\ Borra\ la\ imagen\ en\ este\ panel.\n
+comment4.params=
+comment4.target=java.awt.Dimension\ getPreferredSize()
+comment4.text=\n\ Decirle\ al\ gestor\ de\ disposicion\ cuan\ grane\ deseamos\ que\ sea.\n\ (Este\ metodo\ es\ llamado\ por\ los\ gestores\ de\ disposicion\ para\n\ ubicar\ los\ componentes).\n\ \n\ @return\ La\ dimension\ preferida\ para\ este\ componente.\n
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment5.text=\n\ Este\ componente\ necesita\ volver\ a\ ser\ mostrado.\ Se\ copia\ la\ imagen\n\ interna\ en\ la\ pantalla.\ (Este\ metodo\ es\ llamado\ por\ el\ dibujador\ de\n\ pantalla\ de\ Swing\ cada\ vez\ que\ quiere\ mostrar\ este\ componente).\n\ \n\ @param\ g\ El\ contexto\ grafico\ que\ puede\ usarse\ para\ dibujar\ en\ este\ componente.\n
+numComments=6

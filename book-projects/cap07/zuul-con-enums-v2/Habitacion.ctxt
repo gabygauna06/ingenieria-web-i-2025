@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=descripcion
+comment0.target=Habitacion(String)
+comment0.text=\nCrea\ una\ habitaci\u00F3n\ descrita\ por\ "descripcion".\ \nInicialmente,\ la\ habitaci\u00F3on\ no\ tiene\ salidas,\ "descripcion"\nes\ algo\ asi\ como\ "una\ cocina"\ o\ "un\ patio".\n\n@param\ descripcion\ La\ descripcion\ de\ la\ habitacion.\n\n
+comment1.params=direccion\ vecina
+comment1.target=void\ establecerSalida(String,\ Habitacion)
+comment1.text=\nDefine\ las\ salidas\ de\ esta\ habitaci\u00F3n.\n@param\ direccion\ La\ direccion\ de\ la\ salida\n@param\ vecina\ \ La\ habitacion\ a\ la\ cual\ esta\ salida\ conduce.\n\n
+comment2.target=String\ getDescripcionCorta()
+comment2.text=\n@return\ La\ descripcion\ corta\ de\ esta\ habitaci\u00F3n\n(la\ que\ se\ defini\u00F3\ en\ el\ constructor).\n\n
+comment3.target=String\ getDescripcionLarga()
+comment3.text=\nDevuelve\ una\ descripcion\ de\ la\ habitacion\ en\ la\ forma\:\nUsted\ esta\ en\ la\ cocina\nSalidas\:\ norte\ oeste\n@return\ Una\ descripcion\ larga\ de\ esta\ habitaci\u00F3n\n\n
+comment4.target=String\ getStringDeSalidas()
+comment4.text=\nDevuelve\ una\ cadena\ describiendo\ las\ salidas\ de\ la\ habitaci\u00F3n,\ por\ ejemplo\n"\nReturn\ a\ string\ describing\ the\ room's\ salidas,\ for\ example\n"Salidas\:\ norte\ oeste".\n@return\ Detalles\ de\ las\ salidas\ de\ la\ habitaci\u00F3n\n\n
+comment5.params=direccion
+comment5.target=Habitacion\ getSalida(String)
+comment5.text=\nDevuelve\ la\ habitaci\u00F3n\ a\ la\ que\ se\ llega\ si\ vamos\ desde\ esta\ habitaci\u00F3n\nen\ la\ direcci\u00F3n\ "direccion".\ Si\ no\ hay\ habitaciones\ en\ esa\ direcci\u00F3n,\ndevuelve\ null.\n@param\ direccion\ La\ direcci\u00F3n\ de\ salida\n@return\ La\ habitaci\u00F3n\ en\ la\ direcci\u00F3n\ se\u00F1alada\n\n
+numComments=6

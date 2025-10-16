@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BaseDeDatos
+comment0.text=\n\ La\ clase\ BaseDeDatos\ proporciona\ facilidades\ para\ almacenar\ objetos\n\ CD\ y\ DVD.\ Se\ puede\ imprimir\ en\ la\ terminal\ de\ texto,\ un\ listado\ de\ todos\n\ los\ CD\ y\ DVD.\n\ \n\ Esta\ version\ no\ graba\ los\ datos\ en\ el\ disco\ y\ no\ provee\ ninguna\ funci\uFFFDn\n\ de\ b\u00FAsqueda.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traducci\uFFFDn\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=BaseDeDatos()
+comment1.text=\n\ Construye\ una\ BaseDeDatos\ vac\uFFFDa.\n
+comment2.params=elElemento
+comment2.target=void\ agregarElemento(Elemento)
+comment2.text=\n\ Agrega\ un\ elemento\ a\ la\ base\ de\ datos.\n\ @param\ elElemento\ El\ elemento\ que\ se\ agregar\uFFFD\ a\ la\ base\ de\ datos.\n
+comment3.params=
+comment3.target=void\ listar()
+comment3.text=\n\ Imprime\ en\ la\ terminal\ de\ texto\ un\ listado\ de\ todos\ los\ CDs\ y\ videos\n\ que\ actualmente\ est\uFFFDn\ almacenados\ en\ la\ base\ de\ datos.\n
+numComments=4

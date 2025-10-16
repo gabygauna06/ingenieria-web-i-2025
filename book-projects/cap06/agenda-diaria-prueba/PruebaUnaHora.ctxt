@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PruebaUnaHora()
+comment0.text=\n\ Constructor\ de\ objetos\ de\ la\ clase\ PruebaUnaHora\n
+comment1.params=
+comment1.target=void\ anotarTresCitas()
+comment1.text=\n\ Prueba\ la\ funcionalidad\ b\uFFFDsica\ tanto\ al\ comienzo,\ al\ final\ como\ en\ \n\ la\ mitad\ del\ d\uFFFDa.\n
+comment2.params=
+comment2.target=void\ probarDobleCita()
+comment2.text=\n\ Verifica\ que\ no\ est\uFFFD\ permitido\ registrar\ dos\ citas\ en\ una\ misma\ hora\n
+comment3.params=
+comment3.target=void\ completarElDia()
+comment3.text=\n\ Prueba\ la\ funcionalidad\ b\uFFFDsica\ completando\ un\ d\uFFFDa\ con\ citas.\n
+numComments=4

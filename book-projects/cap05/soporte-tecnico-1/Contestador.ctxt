@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Contestador
+comment0.text=\n\ La\ clase\ Contestador\ represante\ un\ objeto\ generador\ de\ respuestas.\n\ Se\ lo\ usa\ para\ generar\ una\ respuesta\ autom\uFFFDtica.\n\ \n\ @author\ \ \ \ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ \ \ \ 0.1\n
+comment1.params=
+comment1.target=Contestador()
+comment1.text=\n\ Crea\ un\ Contestador\ -\ nada\ para\ hacer\n
+comment2.params=
+comment2.target=java.lang.String\ generarRespuesta()
+comment2.text=\n\ Genera\ una\ respuesta\n\ @return\ \ \ una\ cadena\ que\ se\ podr\uFFFDa\ mostrar\ como\ respuesta\n
+numComments=3

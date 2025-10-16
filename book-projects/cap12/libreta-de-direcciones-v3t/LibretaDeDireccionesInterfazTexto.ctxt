@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=libreta
+comment0.target=LibretaDeDireccionesInterfazTexto(LibretaDeDirecciones)
+comment0.text=\n\ Constructor\ para\ la\ clase\ LibretaDeDireccionesInterfazTexto\n\ @param\ libreta\ La\ libreta\ de\ direcciones\ a\ utilizar.\n
+comment1.params=
+comment1.target=void\ ejecutar()
+comment1.text=\n\ Lee\ una\ serie\ de\ comandos\ del\ usuario\ para\ interactuar\ con\ la\n\ libreta\ de\ direcciones.\ Termina\ cuando\ el\ usuario\ escribe\ 'salir'.\n
+comment2.params=
+comment2.target=void\ agregar()
+comment2.text=\n\ Agregar\ una\ nueva\ entrada.\n
+comment3.params=
+comment3.target=void\ get()
+comment3.text=\n\ Busca\ entradas\ que\ coinciden\ con\ la\ clave.\n
+comment4.params=
+comment4.target=void\ borrar()
+comment4.text=\n\ Borra\ una\ entrada\ que\ coincide\ con\ la\ clave.\n
+comment5.params=
+comment5.target=void\ buscar()
+comment5.text=\n\ Busca\ entradas\ que\ coinciden\ con\ el\ prefijo.\n
+comment6.params=
+comment6.target=void\ ayuda()
+comment6.text=\n\ Listar\ los\ comandos\ disponibles.\n
+comment7.params=
+comment7.target=void\ listar()
+comment7.text=\n\ Listar\ el\ contenido\ de\ la\ libreta\ de\ direcciones.\n
+numComments=8

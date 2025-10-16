@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Subasta()
+comment0.text=\nCrea\ una\ nueva\ subasta.\n\n
+comment1.params=descripcion
+comment1.target=void\ ingresarLote(String)
+comment1.text=\nIngresa\ un\ nuevo\ lote\ en\ la\ subasta.\n@param\ descripcion\ Una\ descripcion\ del\ lote.\n\n
+comment2.target=void\ mostrarLotes()
+comment2.text=\nMuestra\ la\ lista\ completa\ de\ lotes\ de\ esta\ subasta.\n\n
+comment3.params=numeroDeLote\ oferente\ valor
+comment3.target=void\ ofertarPara(int,\ Persona,\ long)
+comment3.text=\nOfertar\ para\ un\ lote.\nEmite\ un\ mensaje\ que\ indica\ si\ una\ oferta\ es\ exitosa\ o\ no.\n@param\ numeroDeLote\ EL\ numero\ de\ lote\ al\ que\ oferta.\n@param\ oferente\ La\ persona\ que\ hace\ la\ oferta.\n@param\ valor\ \ El\ valor\ de\ la\ oferta.\n\n
+comment4.params=numeroDeLote
+comment4.target=Lote\ getLote(int)
+comment4.text=\nDevuelve\ el\ lote\ de\ un\ determinado\ n\u00FAmero.\nDevuelve\ null\ si\ no\ existe\ un\ lote\ con\ ese\ n\u00FAmero.\n@param\ numeroDeLote\ El\ n\u00FAmero\ de\ lote\ a\ retornar.\n\n
+numComments=5

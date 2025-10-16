@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=oferente\ valor
+comment0.target=Oferta(Persona,\ long)
+comment0.text=\nCrea\ una\ oferta.\n@param\ oferente\ Quien\ est\u00E1\ ofertando\ por\ el\ lote.\n@param\ valor\ El\ valor\ de\ la\ oferta.\n\n
+comment1.target=Persona\ getOferente()
+comment1.text=\n@return\ El\ oferente.\n\n
+comment2.target=long\ getValor()
+comment2.text=\n@return\ El\ valor\ de\ la\ oferta.\n\n
+numComments=3

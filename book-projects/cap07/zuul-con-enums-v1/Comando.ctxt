@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Comando
+comment0.text=\n\ \n\ Esta\ clase\ es\ parte\ de\ la\ apliciacion\ "World\ of\ Zuul".\ \n\ "World\ of\ Zuul"\ es\ un\ juego\ de\ aventuras\ sencillo\ basado\ en\ texto.\ \ \n\n\ Esta\ clase\ contiene\ informacion\ sobre\ los\ comandos\ que\ han\ sido\ editados\n\ por\ el\ usuario.\n\ Un\ comando\ consiste\ de\ dos\ cadenas\:\ una\ PalabraComando\ y\ una\ cadena\ (por\ \n\ ejemplo,\ si\ el\ comando\ fue\ "tomar\ mapa",\ entonces\ las\ dos\n\ partes\ seran\ "TOMAR"\ y\ "mapa").\n\ \n\ La\ forma\ en\ que\ esto\ se\ usa\ es\:\ Comandos\ han\ sido\ verificados\ como\n\ palabras\ comando.\ Si\ el\ usuario\ ingresa\ un\ comando\ invalido\ (una\ palabra\ \n\ desconocida)\ entonces\ la\ PalabraComando\ es\ DESCONOCIDO.\n\n\ Si\ el\ comando\ solo\ contiene\ una\ palabra,\ entonces\ la\ segunda\ palabra\n\ es\ <null>.\n\ \n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=palabraComando\ segundaPalabra
+comment1.target=Comando(PalabraComando,\ java.lang.String)
+comment1.text=\n\ Create\ a\ command\ object.\ First\ and\ second\ words\ must\ be\ supplied,\ but\n\ the\ second\ may\ be\ null.\n\ @param\ palabraComando\ The\ PalabraComando.\ DESCONOCIDO\ if\ the\ command\ word\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ was\ not\ recognised.\n\ @param\ segundaPalabra\ The\ second\ word\ of\ the\ command.\ May\ be\ null.\n
+comment2.params=
+comment2.target=PalabraComando\ getPalabraComando()
+comment2.text=\n\ \ Devuelve\ la\ plabara\ comando\ (la\ primer\ palabra)\ de\ este\ comando.\n\ @return\ La\ palabra\ comando.\n
+comment3.params=
+comment3.target=java.lang.String\ getSegundaPalabra()
+comment3.text=\n\ @return\ La\ segunda\ palabra\ de\ este\ comando.\ Devuelve\ null\ si\ no\ \n\ hay\ segunda\ palabra.\n
+comment4.params=
+comment4.target=boolean\ esDesconocido()
+comment4.text=\n\ @return\ true\ si\ el\ comando\ no\ fue\ reconocido.\n
+comment5.params=
+comment5.target=boolean\ tieneSegundaPalabra()
+comment5.text=\n\ @return\ true\ si\ el\ comando\ tiene\ segunda\ palabra\n
+numComments=6

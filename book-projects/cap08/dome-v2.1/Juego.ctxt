@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Juego
+comment0.text=\n\ La\ clase\ CD\ representa\ un\ objecto\ Juego.\ Se\ almacena\ informaci\uFFFDn\n\ sobre\ el\ Juego\ que\ puede\ ser\ consultada.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traduccion\:\ Maximiliano\ A.\ Eschoyez\n\ @author\ Carlos\ A.\ Bart\uFFFD\n\ @version\ 2006.03.30\n
+comment1.params=elTitulo\ jugadores\ tiempo
+comment1.target=Juego(java.lang.String,\ int,\ int)
+comment1.text=\n\ Inicializa\ el\ Juego.\n\ @param\ elTitulo\ El\ titulo\ del\ Juego.\n\ @param\ tiempo\ El\ tiempo\ que\ dura\ el\ Juego.\n\ @param\ temas\ El\ numero\ de\ jugadores\ del\ Juego.\n
+comment2.params=
+comment2.target=int\ getNumeroDeJugadores()
+comment2.text=\n\ @return\ El\ numero\ de\ jugadores\ de\ este\ Juego.\n
+numComments=3

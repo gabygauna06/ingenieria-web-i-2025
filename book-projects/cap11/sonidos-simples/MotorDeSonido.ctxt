@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MotorDeSonido()
+comment0.text=\nCrea\ un\ MotorDeSonido\ que\ puede\ reproducir\ archivos\ de\ sonido.\n\n
+comment1.params=archivoDeSonido
+comment1.target=boolean\ reproducir(File)
+comment1.text=\nCarga\ y\ reproduce\ una\ archivo\ de\ sonido.\ Si\ el\ archivo\ no\ se\ encuentra\nen\ un\ formato\ reconocido,\ se\ devuelve\ 'false'.\ En\ caso\ contrario,\ se\ninicia\ el\ sonido\ y\ se\ devuelve\ 'true'.\ El\ m\u00C3\u00A9todo\ termina\ inmediatamente\nluego\ de\ iniciar\ el\ sonido.\n\n@param\ archivoDeSonido\ \ El\ archivo\ de\ sonido\ a\ cargar.\n@return\ \ True,\ si\ se\ pudo\ cargar\ el\ sonido,\ false\ en\ caso\ contrario.\n\n
+comment2.target=void\ detener()
+comment2.text=\nDetiene\ la\ reproducci\u00C3\u00B3n\ de\ sonido\ (si\ se\ est\u00C3\u00A1\ reproduciendo\ un\ archivo).\nSi\ no\ se\ est\u00C3\u00A1\ reproduciendo,\ este\ m\u00C3\u00A9todo\ no\ tiene\ efecto.\n\n
+comment3.target=void\ pausar()
+comment3.text=\nPausa\ la\ reproducci\u00C3\u00B3n\ de\ sonido.\ Si\ no\ se\ est\u00C3\u00A1\ reproduciendo,\neste\ m\u00C3\u00A9todo\ no\ tiene\ efecto.\n\n
+comment4.target=void\ continuar()
+comment4.text=\nContin\u00C3\u00BAa\ la\ reproducci\u00C3\u00B3n\ de\ sonido.\ Si\ no\ se\ est\u00C3\u00A1\ reproduciendo,\neste\ m\u00C3\u00A9todo\ no\ tiene\ efecto.\n\n
+comment5.params=valor
+comment5.target=void\ posicionar(int)
+comment5.text=\nEstablece\ la\ posici\u00C3\u00B3n\ actual\ de\ reproducci\u00C3\u00B3n\ del\ sonido\ a\ 'valor'.\n'valor'\ es\ un\ pocentaje\ (0\ a\ 100).\ Si\ no\ se\ est\u00C3\u00A1\ reproduciendo,\neste\ m\u00C3\u00A9todo\ no\ tiene\ efecto.\n\n@param\ valor\ \ La\ posici\u00C3\u00B3n\ destino\ dentro\ del\ archivo\ de\ sonido,\ como\nun\ porcentaje.\n\n
+comment6.params=vol
+comment6.target=void\ setVolumen(int)
+comment6.text=\nEstablecer\ el\ volumen\ de\ reproduccion\ del\ sonido\ actual.\ Si\ no\ se\nest\u00C3\u00A1\ reproduciendo,\ este\ m\u00C3\u00A9todo\ no\ tiene\ efecto.\n\n@param\ vol\ \ Nivel\ de\ volumn\ como\ un\ porcentaje\ (0..100).\n\n
+comment7.target=int\ getDuracion()
+comment7.text=\nDevuelve\ la\ duracion\ del\ sonido\ cargado.\n\n@return\ \ La\ duracion\ del\ sonido\ cargado,\ o\ 0\ si\ no\ se\ cargo\ uno.\n\n
+comment8.params=archivo
+comment8.target=boolean\ cargarSonido(File)
+comment8.text=\nCarga\ el\ archivo\ de\ sonido\ dado\ como\ parametro\ a\ este\ motor\ de\ sonido.\n\n@return\ \ 'true'\ en\ caso\ de\ exito,\ 'false'\ si\ no\ se\ puede\ decodificar.\n\n
+numComments=9

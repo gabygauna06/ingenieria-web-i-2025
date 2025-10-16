@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DemoLibretaDeDirecciones()
+comment0.text=\nConfigura\ algunos\ datos\ de\ ejemplo.\n\n
+comment1.target=void\ setup()
+comment1.text=\nConfigura\ una\ LibretaDeDirecciones\ con\ datos\ de\ ejemplo.\n\n
+comment2.target=void\ probarAgregar()
+comment2.text=\nUna\ prueba\ simple\ de\ agregarContacto\ para\ ver\ si\ falla\ la\ aserci\u00F3n.\n\n
+comment3.target=void\ probarBorrar()
+comment3.text=\nUna\ prueba\ simple\ de\ eliminarContacto\ para\ ver\ si\ falla\ la\ aserci\u00F3n.\n\n
+comment4.target=void\ probarModificar()
+comment4.text=\nUna\ prueba\ simple\ de\ modificarContacto\ para\ ver\ si\ falla\ la\ aserci\u00F3n.\n\n
+comment5.target=void\ probarErrorDeAgregado()
+comment5.text=\nAgrega\ por\ segunda\ vez\ una\ entrada\ con\ nombre\ y\ntelefono\ duplicados.\nEsto\ deberia\ disparar\ un\ AssertionError.\n\n
+comment6.target=LibretaDeDirecciones\ getLibretaDeDirecciones()
+comment6.text=\n@return\ La\ libreta\ de\ direcciones\ de\ ejemplo.\n\n
+comment7.target=DatosDelContacto\ getContactoExistente()
+comment7.text=\n@return\ Los\ datos\ de\ un\ contacto\ que\ estaba\ originalmente\nen\ la\ libreta\ de\ direcciones.\n\n
+comment8.target=DatosDelContacto\ getContactoAdicional()
+comment8.text=\n@return\ Los\ datos\ de\ un\ contacto\ adicional,\ originalmente\nno\ estaba\ en\ la\ libreta\ de\ direcciones.\n\n
+comment9.target=DatosDelContacto\ crearContactoRevisado()
+comment9.text=\nCrea\ un\ contacto\ en\ base\ a\ un\ contacto\ existente.\n\n
+numComments=10

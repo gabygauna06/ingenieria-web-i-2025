@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=FiltroSuavizar(String)
+comment0.text=\nConstructor\ de\ objetos\ de\ la\ clase\ FiltroSuavizar.\n@param\ nombre\ El\ nombre\ de\ este\ filtro.\n\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\nAplica\ este\ filtro\ a\ una\ imagen.\n\n@param\ \ imagen\ \ La\ imagen\ a\ cambiar\ por\ este\ filtro.\n\n
+comment2.params=xpos\ ypos
+comment2.target=Color\ suavizar(int,\ int)
+comment2.text=\nDevuelve\ un\ nuevo\ color\ que\ es\ el\ color\ suavizado\ de\ una\ posici\u00C3\u00B3n\ndada.\ El\ "color\ suavizado"\ es\ el\ color\ resultante\ de\ promediar\nel\ pixel\ y\ los\ pixeles\ adyacentes.\n@param\ xpos\ La\ posici\u00C3\u00B3n\ x\ del\ pixel.\n@param\ ypos\ La\ posici\u00C3\u00B3n\ x\ del\ pixel.\n@return\ El\ color\ suavizado.\n\n
+comment3.params=pixeles
+comment3.target=int\ promRojo(List<Color>)
+comment3.text=\n@param\ pixeles\ La\ lista\ de\ los\ pixeles.\n@return\ El\ promedio\ de\ todos\ los\ valores\ rojo\ en\ la\ lista\ de\ pixeles.\n\n
+comment4.params=pixeles
+comment4.target=int\ promVerde(List<Color>)
+comment4.text=\n@param\ pixeles\ La\ lista\ de\ los\ pixeles.\n@return\ El\ promedio\ de\ todos\ los\ valores\ verde\ en\ la\ lista\ de\ pixeles.\n\n
+comment5.params=pixeles
+comment5.target=int\ promAzul(List<Color>)
+comment5.text=\n@param\ pixeles\ La\ lista\ de\ los\ pixeles.\n@return\ El\ promedio\ de\ todos\ los\ valores\ azul\ en\ la\ lista\ de\ pixeles.\n\n
+numComments=6

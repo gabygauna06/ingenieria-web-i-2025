@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=primerPalabra\ segundaPalabra
+comment0.target=Comando(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Crea\ un\ objecto\ comando.\ Debe\ proveerse\ una\ primera\ y\ una\ segunda\ palabra,\n\ pero\ una\ (o\ ambas)\ pueden\ ser\ null\n\ @param\ primerPalabra\ La\ primer\ palabra\ del\ comando.\ Null\ si\ el\ comando\ no\n\ fue\ reconocido.\n\ @param\ segundaPalabra\ La\ segunda\ palabra\ del\ comando.\n
+comment1.params=
+comment1.target=java.lang.String\ getPalabraComando()
+comment1.text=\n\ Devuelve\ la\ plabara\ comando\ (la\ primer\ palabra)\ de\ este\ comando.\ Si\n\ el\ comando\ no\ fue\ entendido,\ el\ resultado\ es\ null\n\ @return\ La\ palabra\ comando.\n
+comment2.params=
+comment2.target=java.lang.String\ getSegundaPalabra()
+comment2.text=\n\ @return\ La\ segunda\ palabra\ de\ este\ comando.\ Devuelve\ null\ si\ no\ \n\ hay\ segunda\ palabra.\n
+comment3.params=
+comment3.target=boolean\ esDesconocido()
+comment3.text=\n\ @return\ true\ si\ el\ comando\ no\ fue\ reconocido.\n
+comment4.params=
+comment4.target=boolean\ tieneSegundaPalabra()
+comment4.text=\n\ @return\ true\ si\ el\ comando\ tiene\ segunda\ palabra\n
+numComments=5

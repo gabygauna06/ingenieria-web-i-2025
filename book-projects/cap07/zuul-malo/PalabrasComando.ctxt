@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PalabrasComando()
+comment0.text=\nConstructor\ -\ inicializa\ las\ palabras\ comando\n\n
+comment1.params=unaCadena
+comment1.target=boolean\ esComando(String)
+comment1.text=\nVerifica\ si\ una\ cadena\ es\ una\ palabra\ comando\ v\u00E1lida\ \n@return\ true\ si\ la\ cadena\ es\ una\ palabra\ comando\ v\u00E1lida\nfalse\ si\ no\ lo\ es.\n\n
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=visible
+comment0.target=void\ setVisible(boolean)
+comment0.text=\n\ Establece\ la\ visibilidad\ de\ la\ interfaz\n\ @param\ visible\ true\ si\ la\ interfaz\ debe\ hacerse\ visible,\ false\ en\n\ \ \ \ \ \ \ \ caso\ contrario.\n
+comment1.params=
+comment1.target=void\ hacerCuadro()
+comment1.text=\n\ Crea\ el\ marco\ para\ la\ interfaz\ de\ Usuario\n
+comment2.params=panel\ textoDelBoton
+comment2.target=void\ agregarBoton(java.awt.Container,\ java.lang.String)
+comment2.text=\n\ Agrega\ un\ bot\uFFFDn\ al\ panel\ de\ control\n\ @param\ panel\ El\ panel\ que\ donde\ se\ va\ a\ agregar\ el\ bot\uFFFDn\n\ @param\ textoDelBoton\ El\ texto\ del\ bot\uFFFDn\n
+comment3.params=evento
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\n\ Una\ acci\uFFFDn\ de\ la\ interfaz\ fue\ ejecutada.\n\ Encontrar\ que\ fue\ y\ manejarla\n\ @param\ evento\ El\ evento\ que\ ocurri\uFFFD.\n
+comment4.params=
+comment4.target=void\ actualizarVisor()
+comment4.text=\n\ Actualizar\ la\ interfaz\ visor\ para\ mostrar\ el\ valor\ actual\n\ del\ la\ calculadora\n
+comment5.params=
+comment5.target=void\ mostrarInformacion()
+comment5.text=\n\ Cambiar\ el\ area\ de\ status\ del\ visor\ de\ informacion\ de\ la\ \n\ calculadora\ alternando\ informaci\uFFFDn\ del\ autor\ y\ la\ versi\uFFFDn\n
+numComments=6

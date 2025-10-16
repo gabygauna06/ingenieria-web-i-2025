@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DemoLibretaDeDirecciones
+comment0.text=\n\ Provee\ una\ demostraci\u00F3n\ simple\ de\ la\ clase\ LibretaDeDirecciones.\n\ Se\ agregan\ datos\ de\ ejemplo\ a\ la\ libreta\ y\ se\ provee\ una\ IGU.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling.\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=DemoLibretaDeDirecciones()
+comment1.text=\n\ Configura\ una\ LibretaDeDirecciones\ con\ datos\ de\ ejemplo.\n\ La\ libreta\ de\ direcciones\ se\ pasa\ a\ la\ IGU\ para\ brindar\n\ una\ vista\ de\ los\ datos.\n
+comment2.params=
+comment2.target=void\ showInterfaz()
+comment2.text=\n\ Permite\ al\ usuario\ interactuar\ con\ la\ libreta\ de\ direcciones.\n
+comment3.params=
+comment3.target=LibretaDeDirecciones\ getLibretaDeDirecciones()
+comment3.text=\n\ @return\ La\ libreta\ de\ direccioens\ de\ ejemplo.\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PelotasDemo
+comment0.text=\n\ Clase\ PelotasDemo\ -\ provee\ dos\ peque\uFFFDas\ demostracions\ sobre\ el\ uso\ de\ la\ \ \n\ clase\ Canvas.\ \n\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2008.03.30\n
+comment1.params=
+comment1.target=PelotasDemo()
+comment1.text=\n\ Crea\ un\ objeto\ PelotasDemo.\ Crea\ un\ nuevo\ canvas\ y\ lo\ hace\ visible.\n
+comment2.params=
+comment2.target=void\ demoDibujar()
+comment2.text=\n\ Muestra\ algunas\ operaciones\ de\ dibujo\ que\ se\ pueden\ realizar\ sobre\n\ un\ objeto\ Canvas.\n
+comment3.params=
+comment3.target=void\ rebotar()
+comment3.text=\n\ Simula\ dos\ pelotas\ rebotando\n
+numComments=4

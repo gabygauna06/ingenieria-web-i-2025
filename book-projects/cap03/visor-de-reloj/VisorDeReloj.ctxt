@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=VisorDeReloj
+comment0.text=\n\ La\ clase\ VisorDeReloj\ implementa\ un\ reloj\ digital\ para\ un\ etilo\ de\n\ hora\ Europeo\ de\ 24\ horas.\ El\ reloj\ muestra\ horas\ y\ minutos.\ El\ rango\n\ del\ reloj\ es\ 00\:00\ (medianoche)\ a\ 23\:59\ (un\ minuto\ antes\ de\ medianoche)\n\ The\ ClockDisplay\ class\ implements\ a\ digital\ clock\ display\ for\ a\n\ \n\ El\ visor\ del\ reloj\ recibe\ "tictacs"\ (por\ medio\ del\ m\uFFFDtodo\ ticTac)\ cada\n\ minuto\ y\ reacciona\ incrementando\ el\ visor.\ Esto\ se\ hace\ de\ la\ manera\ \n\ usual\ en\ un\ reloj\:\ las\ horas\ se\ incrementan\ cuando\ los\ minutos\ dan\ una\ \n\ vuelta\ completa\ y\ retornan\ al\ valor\ cero.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=VisorDeReloj()
+comment1.text=\n\ Constructor\ de\ objetos\ de\ VisorDeReloj.\ Este\ constructor\n\ crea\ un\ nuevo\ reloj\ puesto\ en\ hora\ con\ el\ valor\ 00\:00.\n
+comment2.params=hora\ minuto
+comment2.target=VisorDeReloj(int,\ int)
+comment2.text=\n\ Constructor\ de\ objetos\ de\ VisorDeReloj.\ Este\ constructor\n\ crea\ un\ nuevo\ reloj\ puesto\ en\ hora\ con\ el\ valor\ especificado\ \n\ por\ los\ parametros.\n
+comment3.params=
+comment3.target=void\ ticTac()
+comment3.text=\n\ Este\ m\uFFFDtodo\ debe\ invocarse\ una\ vez\ por\ cada\ minuto;\ hace\n\ que\ el\ visor\ visor\ avance\ un\ minuto.\n
+comment4.params=hora\ minuto
+comment4.target=void\ ponerEnHora(int,\ int)
+comment4.text=\n\ Pone\ en\ hora\ el\ reloj\ con\ la\ hora\ y\ los\ minutos\ especificados.\n
+comment5.params=
+comment5.target=java.lang.String\ getHora()
+comment5.text=\n\ Retorna\ la\ hora\ actual\ del\ visor\ en\ ele\ formato\ HH\:MM.\n
+comment6.params=
+comment6.target=void\ actualizarVisor()
+comment6.text=\n\ Actualiza\ la\ cadena\ interna\ que\ representa\ al\ visor.\n
+numComments=7

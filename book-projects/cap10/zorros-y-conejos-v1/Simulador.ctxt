@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Simulador
+comment0.text=\n\ Un\ modelo\ sencillo\ de\ simulaci\u00F3n\ predador-presa\ con\ zorros\ y\ conejos\n\ dentro\ de\ un\ campo\ cerrado.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=Simulador()
+comment1.text=\n\ Crea\ un\ campo\ de\ simulaci\u00F3n\ del\ tama\u00F1o\ por\ defecto.\n
+comment2.params=largo\ ancho
+comment2.target=Simulador(int,\ int)
+comment2.text=\n\ Crea\ un\ campo\ de\ simulaci\u00F3n\ de\ un\ determinado\ tama\u00F1o.\n\ @param\ largo\ El\ largo\ del\ campo.\ Debe\ ser\ mayor\ que\ cero.\n\ @param\ ancho\ El\ ancho\ del\ campo.\ Debe\ ser\ mayor\ que\ cero.\n
+comment3.params=
+comment3.target=void\ ejecutarSimulacionLarga()
+comment3.text=\n\ Ejecuta\ la\ simulaci\u00F3n\ por\ un\ per\u00EDodo\ razonablemente\ largo\ a\ partir\n\ del\ estado\ actual,\ ej.\ 500\ pasos.\n
+comment4.params=numeroDePasos
+comment4.target=void\ simular(int)
+comment4.text=\n\ Ejecuta\ la\ simulaci\u00F3n\ un\ n\u00FAmero\ determinado\ de\ pasos\ a\ partir\n\ del\ estado\ actual.\n\ Se\ detiene\ antes\ del\ n\u00FAmero\ dado\ de\ pasos\ si\ deja\ de\ ser\ viable.\n\ @param\ numeroDePasos\ El\ n\u00FAmero\ de\ pasos\ a\ realizar.\n
+comment5.params=
+comment5.target=void\ simularUnPaso()
+comment5.text=\n\ Ejecuta\ un\ solo\ paso\ de\ la\ simulaci\u00F3n\ a\ partir\ del\ estado\ actual.\n\ Recorre\ el\ campo\ completo\ actualizando\ el\ estado\ de\ cada\ zorro\n\ y\ cada\ conejo.\n
+comment6.params=
+comment6.target=void\ inicializar()
+comment6.text=\n\ Incializa\ la\ simulaci\u00F3n\ en\ un\ punto\ de\ inicio.\n
+comment7.params=campo
+comment7.target=void\ poblar(Campo)
+comment7.text=\n\ Puebla\ un\ campo\ con\ zorros\ y\ conejos.\n\ @param\ campo\ El\ campo\ que\ se\ poblar\u00E1.\n
+numComments=8

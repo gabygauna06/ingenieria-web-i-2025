@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Comando
+comment0.text=\n\ Esta\ clase\ es\ parte\ de\ la\ apliciacion\ "World\ of\ Zuul".\ \n\ "World\ of\ Zuul"\ es\ un\ juego\ de\ aventuras\ sencillo\ basado\ en\ texto.\ \ \n\n\ Esta\ clase\ contiene\ informacion\ sobre\ los\ comandos\ que\ han\ sido\ editados\n\ por\ el\ usuario.\n\ Un\ comando\ consiste\ de\ dos\ cadenas\:\ una\ palabra\ comando\ y\ una\ segunda\ \n\ palabra\ (por\ ejemplo,\ si\ el\ comando\ fue\ "tomar\ mapa",\ entonces\ las\ dos\n\ palabras\ seran\ obviamente\ "tomar"\ y\ "mapa").\n\ \n\ La\ forma\ en\ que\ esto\ se\ usa\ es\:\ Comandos\ han\ sido\ verificados\ como\n\ palabras\ comando.\ Si\ el\ usuario\ ingresa\ un\ comando\ invalido\ (una\ palabra\ \n\ desconocida)\ entonces\ la\ plabra\ comando\ es\ \ <null>.\n\n\ Si\ el\ comando\ solo\ contiene\ una\ palabra,\ entonces\ la\ segunda\ palabra\n\ es\ <null>.\n\ \n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=primerPalabra\ segundaPalabra
+comment1.target=Comando(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Crea\ un\ objecto\ comando.\ Debe\ proveerse\ una\ primera\ y\ una\ segunda\ palabra,\n\ pero\ una\ (o\ ambas)\ pueden\ ser\ null\n\ @param\ primerPalabra\ La\ primer\ palabra\ del\ comando.\ Null\ si\ el\ comando\ no\n\ fue\ reconocido.\n\ @param\ segundaPalabra\ La\ segunda\ palabra\ del\ comando.\n
+comment2.params=
+comment2.target=java.lang.String\ getPalabraComando()
+comment2.text=\n\ Devuelve\ la\ plabara\ comando\ (la\ primer\ palabra)\ de\ este\ comando.\ Si\n\ el\ comando\ no\ fue\ entendido,\ el\ resultado\ es\ null\n\ @return\ La\ palabra\ comando.\n
+comment3.params=
+comment3.target=java.lang.String\ getSegundaPalabra()
+comment3.text=\n\ @return\ La\ segunda\ palabra\ de\ este\ comando.\ Devuelve\ null\ si\ no\ \n\ hay\ segunda\ palabra.\n
+comment4.params=
+comment4.target=boolean\ esDesconocido()
+comment4.text=\n\ @return\ true\ si\ el\ comando\ no\ fue\ reconocido.\n
+comment5.params=
+comment5.target=boolean\ tieneSegundaPalabra()
+comment5.text=\n\ @return\ true\ si\ el\ comando\ tiene\ segunda\ palabra\n
+numComments=6

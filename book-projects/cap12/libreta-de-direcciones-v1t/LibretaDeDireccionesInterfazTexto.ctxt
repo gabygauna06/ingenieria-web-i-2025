@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LibretaDeDireccionesInterfazTexto
+comment0.text=\n\ Provee\ una\ interfaz\ de\ texto\ a\ la\ LibretaDeDirecciones.\n\ Los\ diferentes\ comandos\ proveen\ acceso\ a\ los\ datos\ de\ la\ libreta.\n\n\ \ \ \ \ \ Uno\ para\ buscar\ en\ la\ libreta.\n\n\ \ \ \ \ \ Uno\ para\ permitir\ la\ carga\ de\ datos\ de\ un\ contacto.\n\n\ \ \ \ \ \ Uno\ para\ mostrar\ todas\ las\ entradas\ en\ la\ libreta.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling.\n\ @author\ Traducci\uFFFDn\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=libreta
+comment1.target=LibretaDeDireccionesInterfazTexto(LibretaDeDirecciones)
+comment1.text=\n\ Constructor\ para\ la\ clase\ LibretaDeDireccionesInterfazTexto\n\ @param\ libreta\ La\ libreta\ de\ direcciones\ a\ utilizar.\n
+comment2.params=
+comment2.target=void\ ejecutar()
+comment2.text=\n\ Lee\ una\ serie\ de\ comandos\ del\ usuario\ para\ interactuar\ con\ la\n\ libreta\ de\ direcciones.\ Termina\ cuando\ el\ usuario\ escribe\ 'salir'.\n
+comment3.params=
+comment3.target=void\ agregar()
+comment3.text=\n\ Agregar\ una\ nueva\ entrada.\n
+comment4.params=
+comment4.target=void\ buscar()
+comment4.text=\n\ Busca\ entradas\ que\ coinciden\ con\ el\ prefijo.\n
+comment5.params=
+comment5.target=void\ ayuda()
+comment5.text=\n\ Listar\ los\ comandos\ disponibles.\n
+comment6.params=
+comment6.target=void\ listar()
+comment6.text=\n\ Listar\ el\ contenido\ de\ la\ libreta\ de\ direcciones.\n
+numComments=7

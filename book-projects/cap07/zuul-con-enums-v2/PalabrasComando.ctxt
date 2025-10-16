@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PalabrasComando
+comment0.text=\n\ Esta\ clase\ es\ parte\ de\ la\ apliciacion\ "World\ of\ Zuul".\ \n\ "World\ of\ Zuul"\ es\ un\ juego\ de\ aventuras\ sencillo\ basado\ en\ texto.\ \ \n\n\ Esta\ clase\ define\ todos\ los\ comandos\ validos\ del\ juego\ mediante\ un\ \n\ arreglo\ de\ cadenas\ que\ contiene\ las\ palabras\ que\ se\ usaran\ como\n\ comandos\n\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=PalabrasComando()
+comment1.text=\n\ Constructor\ -\ inicializa\ las\ palabras\ comando\n
+comment2.params=palabraComando
+comment2.target=PalabraComando\ getPalabraComando(java.lang.String)
+comment2.text=\n\ Encuentra\ la\ PalabraComando\ asociada\ con\ le\ palabra\ comando.\n\ @param\ palabraComando\ la\ palabra\ a\ buscar.\n\ @return\ La\ PalabraComando\ asociada\ a\ la\ palabra\ comando,\ o\ DESCONOCIDO\n\ \ \ \ \ \ \ \ \ si\ no\ es\ una\ palabra\ comando\ v\uFFFDlida.\n
+comment3.params=unaCadena
+comment3.target=boolean\ esComando(java.lang.String)
+comment3.text=\n\ Verifica\ si\ una\ cadena\ es\ una\ palabra\ comando\ v\uFFFDlida\ \n\ @return\ true\ si\ la\ cadena\ es\ una\ palabra\ comando\ v\uFFFDlida\n\ false\ si\ no\ lo\ es.\n
+comment4.params=
+comment4.target=void\ mostrarTodo()
+comment4.text=\n\ Imprime\ todos\ los\ comandos\ v\uFFFDlidos\ al\ System.out.\n
+numComments=5

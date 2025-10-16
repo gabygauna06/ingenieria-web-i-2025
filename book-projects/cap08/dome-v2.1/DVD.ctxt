@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DVD
+comment0.text=\n\ La\ clase\ DVD\ representa\ un\ objecto\ DVD.\ Se\ almacena\ informaci\u00F3n\ \n\ sobre\ el\ DVD\ que\ puede\ ser\ consultada.\ Se\ asume\ que\ s\u00F3lo\ se\ \n\ registrar\u00E1n\ DVDs\ de\ pel\u00EDculas.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=elTitulo\ elDirector\ tiempo
+comment1.target=DVD(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ de\ objectos\ de\ la\ clase\ DVD\n\ @param\ elTitulo\ El\ titulo\ del\ DVD.\n\ @param\ elDirector\ El\ director\ del\ DVD.\n\ @param\ tiempo\ El\ tiempo\ de\ duraci\uFFFDn\ del\ DVD.\n
+comment2.params=
+comment2.target=java.lang.String\ getDirector()
+comment2.text=\n\ @return\ El\ director\ de\ este\ DVD.\n
+numComments=3

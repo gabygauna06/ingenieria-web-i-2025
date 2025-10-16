@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PanelDeImagen()
+comment0.text=\nCrea\ un\ PanelDeImagen\ nuevo\ vac\u00C3\u00ADo.\n\n
+comment1.params=imagen
+comment1.target=void\ setImagen(ImagenOF)
+comment1.text=\nEstablece\ la\ imagen\ que\ este\ panel\ debe\ mostrar.\n\n@param\ imagen\ \ La\ imagen\ que\ se\ mostrar\u00C3\u00A1.\n\n
+comment2.target=void\ borrarImagen()
+comment2.text=\nBorra\ la\ imagen\ en\ este\ panel.\n\n
+comment3.target=Dimension\ getPreferredSize()
+comment3.text=\nDecirle\ al\ gestor\ de\ disposicion\ cuan\ grane\ deseamos\ que\ sea.\n(Este\ metodo\ es\ llamado\ por\ los\ gestores\ de\ disposicion\ para\nubicar\ los\ componentes).\n\n@return\ La\ dimension\ preferida\ para\ este\ componente.\n\n
+comment4.params=g
+comment4.target=void\ paintComponent(Graphics)
+comment4.text=\nEste\ componente\ necesita\ volver\ a\ ser\ mostrado.\ Se\ copia\ la\ imagen\ninterna\ en\ la\ pantalla.\ (Este\ metodo\ es\ llamado\ por\ el\ dibujador\ de\npantalla\ de\ Swing\ cada\ vez\ que\ quiere\ mostrar\ este\ componente).\n\n@param\ g\ El\ contexto\ grafico\ que\ puede\ usarse\ para\ dibujar\ en\ este\ componente.\n\n
+numComments=5

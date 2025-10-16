@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Filtro
+comment0.text=\n\ Filtro\ es\ una\ superclase\ abstracta\ para\ todos\ los\ filtros\ de\ esta\n\ aplicaci\u00F3n.\ Los\ filtros\ pueden\ aplicarse\ a\ una\ ImagenOF\ invocando\n\ la\ aplicaci\u00F3n\ del\ m\u00E9todo.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J\ Barnes\ \n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 1.0\n
+comment1.params=nombre
+comment1.target=Filtro(java.lang.String)
+comment1.text=\n\ Crea\ un\ filtro\ cuevo\ con\ el\ nombre\ dado.\n\ @param\ nombre\ El\ nombre\ del\ filtro.\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\n\ Devuelve\ el\ nombre\ de\ este\ filtro.\n\ \n\ @return\ \ El\ nombre\ de\ este\ filtro.\n
+comment3.params=imagen
+comment3.target=void\ aplicar(ImagenOF)
+comment3.text=\n\ Aplica\ este\ filtro\ a\ una\ imagen.\n\ \n\ @param\ \ imagen\ \ La\ imagen\ a\ modificar\ por\ este\ filtro.\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VisorDeImagen()
+comment0.text=\n\ Crea\ un\ VisorDeImagen\ y\ lo\ muestra\ en\ la\ pantalla.\n
+comment1.params=
+comment1.target=void\ construirVentana()
+comment1.text=\n\ Crea\ la\ ventana\ Swing\ y\ su\ contenido.\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pallete
+comment0.text=\n\ Un\ palette\ es\ una\ pila\ de\ ladirllos\ en\ una\ base\ de\ madera\n\ \n\ @author\:\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=ladrillosEnPlano\ alto
+comment1.target=Pallete(int,\ int)
+comment1.text=\n\ Crea\ un\ pallete\ con\ una\ cantidad\ de\ ladrillos\ dada\n\ @param\ ladrillosEnPlano\ el\ numero\ de\ ladirllos\ en\ cada\ nivel\ desde\ la\ base\n\ @param\ alto\ el\ numero\ de\ ladrillos\ apilados\ uno\ sobre\ otro\n
+comment2.params=
+comment2.target=double\ getPeso()
+comment2.text=\n\ @return\ el\ peso\ del\ pallete\ (en\ kg)\n
+comment3.params=
+comment3.target=double\ getAlto()
+comment3.text=\n\ @return\ la\ altura\ de\ la\ pila\ (en\ cm)\n
+numComments=4

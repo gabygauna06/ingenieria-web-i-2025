@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EstadisticasDelCampo()
+comment0.text=\n\ Construye\ un\ objecto\ EstadisticasDelCampo.\n
+comment1.params=campo
+comment1.target=java.lang.String\ getDetallesDePoblacion(Campo)
+comment1.text=\n\ Toma\ detalles\ de\ qu\u00E9\ est\u00E1\ ocurriendo\ en\ el\ campo.\n\ @return\ Un\ texto\ describiendo\ que\ est\u00E1\ ocurriendo\ en\ el\ campo.\n
+comment2.params=
+comment2.target=void\ inicializar()
+comment2.text=\n\ Establece\ como\ no\ v\u00E1lidas\ las\ estad\u00EDsticas\ actuales;\ reinicia\n\ todos\ los\ contadores\ a\ cero.\n
+comment3.params=claseAnimal
+comment3.target=void\ incrementarContador(java.lang.Class)
+comment3.text=\n\ Incrementa\ el\ contador\ para\ una\ clase\ de\ animal.\n\ @param\ claseAnimal\ La\ clase\ de\ animal\ a\ incrementar.\n
+comment4.params=
+comment4.target=void\ cuentaFinalizada()
+comment4.text=\n\ Indica\ que\ la\ cuenta\ de\ un\ animal\ se\ ha\ completado.\n
+comment5.params=campo
+comment5.target=boolean\ esViable(Campo)
+comment5.text=\n\ Determina\ si\ la\ simulaci\u00F3n\ todav\u00EDa\ es\ viable.\ Esto\ es,\n\ se\ puede\ continuar\ ejecutando.\n\ @return\ true\ Si\ existe\ m\u00E1s\ de\ una\ especie\ viva.\n
+comment6.params=campo
+comment6.target=void\ generarCuentas(Campo)
+comment6.text=\n\ Genera\ cuentas\ del\ n\u00FAmero\ de\ zorros\ y\ conejos.\n\ Estos\ contadores\ no\ se\ mantienen\ actualizados\ cuando\n\ se\ ubican\ zorros\ y\ conejos\ en\ el\ campo,\ se\ actualizan\n\ \u00FAnicamente\ cuando\ se\ pide\ esta\ informaci\u00F3n.\n\ @param\ campo\ El\ campo\ sobre\ el\ cual\ generar\ las\ estad\u00EDsticas.\n
+numComments=7

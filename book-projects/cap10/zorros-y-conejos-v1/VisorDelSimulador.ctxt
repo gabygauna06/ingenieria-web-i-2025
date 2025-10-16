@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=largo\ ancho
+comment0.target=VisorDelSimulador(int,\ int)
+comment0.text=\r\n\ Crea\ un\ visor\ del\ largo\ y\ ancho\ indicados.\r\n\ @param\ largo\ El\ largo\ del\ campo\ de\ simulacion.\r\n\ @param\ ancho\ El\ ancho\ del\ campo\ de\ simulacion.\r\n
+comment1.params=claseAnimal\ color
+comment1.target=void\ setColor(java.lang.Class,\ java.awt.Color)
+comment1.text=\r\n\ Define\ el\ color\ a\ utilizar\ para\ la\ clasa\ de\ animal\ dada.\r\n\ @param\ claseAnimal\ El\ objeto\ animal\ de\ la\ clase.\r\n\ @param\ color\ El\ color\ a\ utilizar\ para\ el\ animal\ de\ la\ clase\ dada.\r\n
+comment2.params=claseAnimal
+comment2.target=java.awt.Color\ getColor(java.lang.Class)
+comment2.text=\r\n\ @return\ El\ color\ utilizado\ para\ el\ animal\ de\ la\ clase\ dada.\r\n
+comment3.params=paso\ campo
+comment3.target=void\ mostrarEstado(int,\ Campo)
+comment3.text=\r\n\ Muestra\ el\ estado\ actual\ del\ campo.\r\n\ @param\ paso\ En\ qu\u00C3\u00A9\ paso\ de\ iteraci\u00C3\u00B3n\ se\ encuentra.\r\n\ @param\ campo\ El\ campo\ cuye\ estado\ debe\ mostrarse.\r\n
+comment4.params=campo
+comment4.target=boolean\ esViable(Campo)
+comment4.text=\r\n\ Determina\ si\ la\ simulacion\ debe\ continuar.\r\n\ @return\ true\ Si\ sigue\ viva\ mas\ de\ una\ especie.\r\n
+numComments=5

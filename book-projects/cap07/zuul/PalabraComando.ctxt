@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PalabraComando
+comment0.text=\n\ Representacion\ de\ todos\ las\ palabras\ comando\ validas\ para\ el\ juego.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=cadenaComando
+comment1.target=PalabraComando(java.lang.String)
+comment1.text=\n\ Inicializa\ con\ la\ correspondiente\ palabra\ comando.\n\ @param\ cadenaComando\ La\ cadena\ comando\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ @return\ la\ palabra\ comando\ como\ cadena\n
+numComments=3

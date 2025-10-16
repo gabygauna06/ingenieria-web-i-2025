@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=JuegoDeMesa
+comment0.text=\n\ La\ clase\ JuegoDeMesa\ representa\ un\ objecto\ Juego.\ Se\ almacena\ informaci\uFFFDn\n\ sobre\ el\ Juego\ de\ Mesa\ que\ puede\ ser\ consultada.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traduccion\:\ Maximiliano\ A.\ Eschoyez\n\ @author\ Carlos\ A.\ Bart\uFFFD\n\ @version\ 2006.03.30\n
+comment1.params=elTitulo\ tablero\ jugadores\ tiempo
+comment1.target=JuegoDeMesa(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Inicializa\ el\ JuegoDeMesa.\n\ @param\ elTitulo\ El\ titulo\ del\ JuegoDeMesa.\n\ @param\ plataforma\ El\ tablero\ del\ JuegoDeMesa.\n\ @param\ temas\ El\ numero\ de\ jugadores\ del\ JuegoDeMesa.\n\ @param\ tiempo\ El\ tiempo\ que\ dura\ el\ JuegoDeMesa.\n
+comment2.params=
+comment2.target=java.lang.String\ getTablero()
+comment2.text=\n\ @return\ El\ tablero\ de\ este\ JuegoDeMesa.\n
+numComments=3

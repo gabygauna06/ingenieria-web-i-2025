@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DemoLibretaDeDirecciones()
+comment0.text=\n\ Configura\ una\ LibretaDeDirecciones\ con\ datos\ de\ ejemplo.\n\ La\ libreta\ de\ direcciones\ se\ pasa\ a\ la\ interfaz\ de\ texto\n\ para\ brindar\ una\ vista\ de\ los\ datos.\n
+comment1.params=
+comment1.target=void\ showInterfaz()
+comment1.text=\n\ Permite\ al\ usuario\ interactuar\ con\ la\ libreta\ de\ direcciones.\n
+comment2.params=
+comment2.target=LibretaDeDirecciones\ getLibretaDeDirecciones()
+comment2.text=\n\ @return\ La\ libreta\ de\ direcciones\ de\ ejemplo.\n
+numComments=3

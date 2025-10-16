@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VisorDeImagen()
+comment0.text=\n\ Crea\ un\ VisorDeImagen\ y\ lo\ muestra\ en\ la\ pantalla.\n
+comment1.params=
+comment1.target=void\ archivoAbrir()
+comment1.text=\n\ Funci\u00F3n\ Abrir\:\ abre\ un\ selector\ de\ archivos\ para\ elegir\ un\n\ nuevo\ archivo\ de\ imagen.\n
+comment2.params=
+comment2.target=void\ salir()
+comment2.text=\n\ Funci\u00F3n\ Salir\:\ sale\ de\ la\ aplicaci\u00F3n.\n
+comment3.params=
+comment3.target=void\ construirVentana()
+comment3.text=\n\ Crea\ la\ ventana\ Swing\ y\ su\ contenido.\n
+comment4.params=ventana
+comment4.target=void\ construirBarraDeMenu(javax.swing.JFrame)
+comment4.text=\n\ Crea\ la\ barra\ de\ men\u00FA\ de\ la\ ventana.\n\ @param\ ventana\ \ La\ ventana\ a\ la\ cual\ se\ debe\ agregar\ la\ barra\ de\ men\u00FA.\n
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

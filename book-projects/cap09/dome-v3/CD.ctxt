@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\n\ La\ clase\ CD\ representa\ un\ objecto\ CD.\ Se\ almacena\n\ informaci\u00F3n\ sobre\ el\ CD\ que\ puede\ ser\ consultada.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=elTitulo\ elInterprete\ temas\ tiempo
+comment1.target=CD(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Inicializa\ el\ CD.\n\ @param\ elTitulo\ El\ titulo\ del\ CD.\n\ @param\ elInterprete\ El\ interprete\ del\ CD.\n\ @param\ temas\ El\ numero\ de\ temas\ del\ CD.\n\ @param\ tiempo\ El\ tiempo\ que\ dura\ el\ CD.\n
+comment2.params=
+comment2.target=java.lang.String\ getArtista()
+comment2.text=\n\ @return\ El\ interprete\ de\ este\ CD.\n
+comment3.params=
+comment3.target=int\ getNumeroDeTemas()
+comment3.text=\n\ @return\ El\ numero\ de\ temas\ de\ este\ CD.\n
+comment4.params=
+comment4.target=void\ imprimir()
+comment4.text=\n\ Imprime\ en\ la\ terminal\ de\ texto\ los\ detalles\ de\ este\ CD.\n
+numComments=5

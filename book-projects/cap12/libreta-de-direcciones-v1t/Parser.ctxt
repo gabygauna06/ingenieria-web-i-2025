@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parser()
+comment1.params=
+comment1.target=java.lang.String\ getComando()
+comment1.text=\r\n\ Lee\ el\ siguente\ comando\ del\ usuario.\r\n\ El\ comando\ devuelto\ ser\u00E1\ v\u00E1lido.\r\n\ @return\ Un\ comando\ v\u00E1lido.\r\n
+comment2.params=
+comment2.target=void\ showComandos()
+comment2.text=\r\n\ Muestra\ una\ lista\ de\ todos\ los\ comandos\ v\u00E1lidos.\r\n
+comment3.params=
+comment3.target=java.lang.String\ leerLinea()
+comment3.text=\r\n\ @return\ Una\ l\u00EDnea\ de\ texto\ del\ usuario.\r\n
+numComments=4

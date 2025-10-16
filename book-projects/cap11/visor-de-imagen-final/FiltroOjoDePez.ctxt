@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=FiltroOjoDePez(String)
+comment0.text=\nConstructor\ de\ objetos\ de\ la\ clase\ FiltroOjoDePez.\n@param\ nombre\ El\ nombre\ de\ este\ filtro.\n\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\nAplica\ este\ filtro\ a\ una\ imagen.\n\n@param\ \ imagen\ \ La\ imagen\ a\ cambiar\ por\ este\ filtro.\n\n
+comment2.params=ancho
+comment2.target=int[]\ calcularArregloX(int)
+comment2.text=\nCalcula\ y\ devuelve\ un\ arreglo\ de\ desplazamientos\ verticales\ para\ cada\ncolumna\ de\ pixeles.\ Estos\ pueden\ aplicarse\ como\ el\ desplazamiento\nvertical\ para\ cada\ pixel.\n\n
+comment3.params=alto
+comment3.target=int[]\ calcularArregloY(int)
+comment3.text=\nCalcula\ y\ devuelve\ un\ arreglo\ de\ desplazamientos\ verticales\ para\ cada\nfila\ de\ pixeles.\ Estos\ pueden\ aplicarse\ como\ el\ desplazamiento\nvertical\ para\ cada\ pixel.\n\n
+numComments=4

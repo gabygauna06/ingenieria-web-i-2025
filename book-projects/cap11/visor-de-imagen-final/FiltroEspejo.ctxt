@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=FiltroEspejo(String)
+comment0.text=\nConstructor\ de\ objetos\ de\ la\ clase\ FiltroEspejo.\n@param\ nombre\ El\ nombre\ de\ este\ filtro.\n\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\nAplica\ este\ filtro\ a\ una\ imagen.\n\n@param\ \ imagen\ \ La\ imagen\ a\ cambiar\ por\ este\ filtro.\n\n
+numComments=2

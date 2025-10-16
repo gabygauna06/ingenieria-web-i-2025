@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Analizador()
+comment0.text=\n\ Crea\ un\ analizador\ para\ leer\ desde\ una\ terminal.\n
+comment1.params=
+comment1.target=Comando\ getComando()
+comment1.text=\n\ @return\ el\ siguiente\ comando\ del\ usuario\n
+numComments=2

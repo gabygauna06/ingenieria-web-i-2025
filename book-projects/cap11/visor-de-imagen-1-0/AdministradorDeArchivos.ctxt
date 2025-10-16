@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=archivoImagen
+comment0.target=ImagenOF\ cargarImagen(File)
+comment0.text=\nAbre\ un\ selector\ de\ archivos\ y\ permite\ al\ usuario\ elegir\ un\ archivo\ de\nimagen\ del\ sistema\ de\ archivos.\ Luego\ lee\ la\ imagen\ del\ disco\ y\ la\ndevuelve\ como\ una\ imagen.\ Este\ m\u00C3\u00A9todo\ puede\ leer\ los\ formatos\ JPG\ y\ PNG.\nEn\ caso\ de\ alg\u00C3\u00BAn\ problema\ (ej.,\ el\ archivo\ no\ existe,\ est\u00C3\u00A1\ en\ un\ formato\nque\ no\ puede\ decodificarse\ o\ cualquier\ otro\ error)\ este\ m\u00C3\u00A9todo\ devuelve\nel\ valor\ null.\n\n@param\ archivoImagen\ \ El\ archivo\ de\ la\ imagen\ a\ cargar.\n@return\ \ \ \ \ \ \ El\ objeto\ de\ imagen\ o\ null\ si\ no\ es\ una\ im\u00C3\u00A1gen\ v\u00C3\u00A1lida.\n\n
+comment1.params=imagen\ archivo
+comment1.target=void\ guardarImagen(ImagenOF,\ File)
+comment1.text=\nEscribe\ un\ archivo\ de\ imagen\ en\ el\ disco.\ El\ formato\ del\ archivo\ es\ JPG.\nEn\ caso\ de\ algun\ problema\ el\ metodo\ termina\ silenciosamente.\n\n@param\ imagen\ \ \ La\ imagen\ a\ guardar.\n@param\ archivo\ \ El\ archivo\ a\ guardar.\n\n
+numComments=2

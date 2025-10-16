@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=elTitulo\ elInterprete\ temas\ tiempo
+comment0.target=CD(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Inicializa\ el\ CD.\n\ @param\ elTitulo\ El\ titulo\ del\ CD.\n\ @param\ elInterprete\ El\ interprete\ del\ CD.\n\ @param\ temas\ El\ numero\ de\ temas\ del\ CD.\n\ @param\ tiempo\ El\ tiempo\ que\ dura\ el\ CD.\n
+comment1.params=comentario
+comment1.target=void\ setComentario(java.lang.String)
+comment1.text=\n\ Asigna\ un\ comentario\ para\ este\ CD.\n\ @param\ comentario\ El\ comentario\ que\ se\ ingresara.\n
+comment2.params=
+comment2.target=java.lang.String\ getComentario()
+comment2.text=\n\ @return\ El\ comentario\ de\ este\ CD.\n
+comment3.params=mePertenece
+comment3.target=void\ setLoTengo(boolean)
+comment3.text=\n\ Asigna\ el\ valor\ a\ la\ bandera\ que\ indica\ si\ tenemos\ este\ CD.\n\ @param\ mePertenece\ true\ si\ tenemos\ el\ CD,\ false\ en\ caso\ contrario.\n
+comment4.params=
+comment4.target=boolean\ getLoTengo()
+comment4.text=\n\ @return\ true\ si\ tenemos\ una\ copia\ de\ este\ CD.\n
+comment5.params=
+comment5.target=void\ imprimir()
+comment5.text=\n\ Imprime\ en\ la\ terminal\ de\ texto\ los\ detalles\ de\ este\ CD.\n
+numComments=6

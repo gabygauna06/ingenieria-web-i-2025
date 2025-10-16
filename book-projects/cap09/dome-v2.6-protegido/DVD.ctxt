@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=elTitulo\ elDirector\ tiempo
+comment0.target=DVD(String,\ String,\ int)
+comment0.text=\nConstructor\ de\ objectos\ de\ la\ clase\ DVD\n@param\ elTitulo\ El\ titulo\ del\ DVD.\n@param\ elDirector\ El\ director\ del\ DVD.\n@param\ tiempo\ El\ tiempo\ de\ duracion\ del\ DVD.\n\n
+comment1.target=String\ getDirector()
+comment1.text=\n@return\ El\ director\ de\ este\ DVD.\n\n
+comment2.target=String\ toString()
+comment2.text=\nPasa\ a\ String\ los\ detalles\ de\ este\ CD.\n\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=imagen
+comment0.target=ImagenOF(BufferedImage)
+comment0.text=\nCrea\ una\ ImagenOF\ copiada\ de\ una\ BufferedImage.\n@param\ imagen\ La\ imagen\ a\ copiar.\n\n
+comment1.params=ancho\ alto
+comment1.target=ImagenOF(int,\ int)
+comment1.text=\nCrea\ una\ ImagenOF\ con\ tama\u00C3\u00B1o\ especificado\ y\ contenido\ sin\ especificar.\n@param\ ancho\ \ El\ ancho\ de\ la\ imagen.\n@param\ alto\ \ \ El\ alto\ de\ la\ imagen.\n\n
+comment2.params=x\ y\ color
+comment2.target=void\ setPixel(int,\ int,\ Color)
+comment2.text=\nD\u00C3\u00A1\ un\ color\ especificado\ a\ un\ pixel\ dado.\ El\ color\ se\nrepresenta\ como\ un\ valor\ (r,g,b).\n@param\ x\ La\ posici\u00C3\u00B3n\ x\ del\ pixel.\n@param\ y\ La\ posici\u00C3\u00B3n\ y\ del\ pixel.\n@param\ color\ El\ color\ del\ pixel.\n\n
+comment3.params=x\ y
+comment3.target=Color\ getPixel(int,\ int)
+comment3.text=\nToma\ el\ valor\ de\ color\ de\ un\ pixel\ en\ una\ posici\u00C3\u00B3n\ especificada.\n@param\ x\ La\ posici\u00C3\u00B3n\ x\ del\ pixel.\n@param\ y\ La\ posici\u00C3\u00B3n\ y\ del\ pixel.\n@return\ El\ color\ del\ pixel\ en\ la\ posici\u00C3\u00B3n\ dada.\n\n
+comment4.target=void\ oscuro()
+comment4.text=\nHace\ la\ imagen\ un\ poco\ m\u00C3\u00A1s\ oscura.\n\n
+comment5.target=void\ claro()
+comment5.text=\nHace\ la\ imagen\ un\ poco\ m\u00C3\u00A1s\ clara.\n\n
+comment6.target=void\ umbral()
+comment6.text=\nAplica\ una\ operacion\ umbral\ de\ tres\ niveles.\nEsto\ es\:\ redibuja\ la\ imagen\ con\ tres\ colores\:\nblanco,\ gris\ y\ negro.\n\n
+numComments=7

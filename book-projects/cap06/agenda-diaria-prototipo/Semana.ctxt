@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=semanaNumero
+comment0.target=Semana(int)
+comment0.text=\nConstructor\ de\ objetos\ de\ la\ clase\ Semana.\n@param\ semanaNumero\ El\ numero\ de\ la\ semana\ (0-52).\n\n
+comment1.target=void\ mostrarCitas()
+comment1.text=\nImprime\ una\ lista\ de\ citas\ para\ esta\ semana\n\n
+comment2.params=diaEnSemana
+comment2.target=Dia\ getDia(int)
+comment2.text=\n@param\ diaEnSemana\ qu\u00E9\ d\u00EDa\ (1..DIAS_AGENDABLES_POR_SEMANA).\n@return\ El\ Dia\ representando\ el\ n\u00FAmer\ do\ d\u00EDa,\ o\ null\ si\ diaEnSemana\nest\u00E1\ fuera\ de\ rango\n\n
+comment3.target=int\ getSemanaNumero()
+comment3.text=\n@return\ El\ numero\ de\ semana\ (0-52).\n\n
+numComments=4

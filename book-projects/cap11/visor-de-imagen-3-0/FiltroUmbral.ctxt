@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FiltroUmbral
+comment0.text=\n\ Un\ filtro\ umbral\ de\ tres\ niveles\ en\ tonos\ de\ gris.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J\ Barnes\ \n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 1.0\n
+comment1.params=nombre
+comment1.target=FiltroUmbral(java.lang.String)
+comment1.text=\n\ Constructor\ de\ objetos\ de\ la\ clase\ FiltroUmbral.\n\ @param\ nombre\ El\ nombre\ de\ este\ filtro.\n
+comment2.params=imagen
+comment2.target=void\ aplicar(ImagenOF)
+comment2.text=\n\ Aplica\ este\ filtro\ a\ una\ imagen.\n\ \n\ @param\ \ imagen\ \ La\ imagen\ a\ cambiar\ por\ este\ filtro.\n
+numComments=3

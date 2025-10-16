@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ServidorDeCorreo()
+comment0.text=\nConstruye\ un\ servidor\ de\ mail.\n\n
+comment1.params=quien
+comment1.target=int\ cuantosItemsDeCorreos(String)
+comment1.text=\nRetorna\ cuantos\ items\ de\ mails\ estan\ esperando\ por\ un\ usuario.\n@param\ quien\ Es\ el\ usuario\ a\ quien\ se\ debe\ chequear\n@param\ who\ El\ usuario\ a\ quien\ chequear.\n@return\ Cuantos\ items\ est\u00E1n\ esperando.\ \n\n
+comment2.params=quien
+comment2.target=ItemDeCorreo\ getSiguienteItemDeCorreo(String)
+comment2.text=\nRetorna\ el\ siguiente\ item\ de\ mail\ para\ un\ usuario\ o\ null\n@param\ quien\ El\ usuario\ que\ requiere\ su\ pr\u00F3ximo\ item.\n@return\ El\ siguiente\ item\ del\ usuario.\n\n
+comment3.params=item
+comment3.target=void\ repartir(ItemDeCorreo)
+comment3.text=\nAgrega\ el\ item\ de\ mail\ dado\ a\ la\ lista\ de\ mensajes.\n@param\ item\ El\ item\ de\ mail\ a\ ser\ almacenado\ en\ el\ servidor.\n\n
+numComments=4

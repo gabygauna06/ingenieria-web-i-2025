@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=precioDelBoleto
+comment0.target=MaquinaDeBoletos(int)
+comment0.text=\r\n\ Crea\ una\ m\u00E1quina\ que\ suministra\ boletos\ de\ un\ precio\ dado..\r\n
+comment1.params=
+comment1.target=int\ getPrecio()
+comment1.text=\r\n\ Retorna\ el\ precio\ de\ un\ boleto.\r\n
+comment2.params=
+comment2.target=int\ getSaldo()
+comment2.text=\r\n\ Retorna\ la\ cantidad\ de\ dinero\ ya\ insertada\ para\ el\r\n\ siguiente\ boleto\r\n
+comment3.params=cantidad
+comment3.target=void\ insertarDinero(int)
+comment3.text=\r\n\ Recibe\ del\ usuario\ una\ cantidad\ de\ dinero\ en\ centavos.\ \r\n\ Controla\ que\ la\ cantidad\ tenga\ sentido.\r\n
+comment4.params=
+comment4.target=void\ imprimirBoleto()
+comment4.text=\r\n\ Imprime\ un\ boleto\ si\ la\ cantidad\ de\ dinero\ ingresada\r\n\ alcanza\ y\ disminuye\ el\ saldo\ actual\ en\ el\ precio\ del\r\n\ boleto.\ Imprime\ un\ mensaje\ de\ error\ si\ se\ requiere\ m\u00E1s\r\n\ dinero.\r\n
+comment5.params=
+comment5.target=int\ reintegrarSaldo()
+comment5.text=\r\n\ Da\ el\ vuelto\ del\ dinero\ ingresado\ cuando\ es\ superior\ al\ precio\r\n\ El\ saldo\ se\ pone\ a\ cero\r\n
+numComments=6

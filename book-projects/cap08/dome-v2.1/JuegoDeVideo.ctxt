@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=JuegoDeVideo
+comment0.text=\n\ La\ clase\ JuegoDeVideo\ representa\ un\ objecto\ Juego.\ Se\ almacena\ informaci\uFFFDn\n\ sobre\ el\ Video\ Juego\ que\ puede\ ser\ consultada.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traduccion\:\ Maximiliano\ A.\ Eschoyez\n\ @author\ Carlos\ A.\ Bart\uFFFD\n\ @version\ 2006.03.30\n
+comment1.params=elTitulo\ plataforma\ jugadores\ tiempo
+comment1.target=JuegoDeVideo(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Inicializa\ el\ JuegoDeVideo.\n\ @param\ elTitulo\ El\ titulo\ del\ JuegoDeVideo.\n\ @param\ plataforma\ La\ plataforma\ del\ JuegoDeVideo.\n\ @param\ temas\ El\ numero\ de\ jugadores\ del\ JuegoDeVideo.\n\ @param\ tiempo\ El\ tiempo\ que\ dura\ el\ JuegoDeVideo.\n
+comment2.params=
+comment2.target=java.lang.String\ getPlataforma()
+comment2.text=\n\ @return\ La\ plataforma\ de\ este\ JuegoDeVideo.\n
+comment3.params=
+comment3.target=void\ imprimir()
+numComments=4

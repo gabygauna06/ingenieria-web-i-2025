@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombre\ telefono\ direccion
+comment0.target=DatosDelContacto(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Establece\ los\ datos\ del\ contacto.\ A\ todos\ los\ datos\ se\ les\r\n\ eliminan\ los\ posibles\ espacios\ en\ blanco\ al\ final.\r\n\ @param\ nombre\ El\ nombre.\r\n\ @param\ telefono\ El\ n\u00FAmero\ de\ tel\u00E9fono.\r\n\ @param\ direccion\ La\ direcci\u00F3n.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\r\n\ @return\ El\ nombre.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTelefono()
+comment2.text=\r\n\ @return\ El\ n\u00FAmero\ de\ tel\u00E9fono.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDireccion()
+comment3.text=\r\n\ @return\ La\ direcci\u00F3n.\r\n
+comment4.params=otro
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\r\n\ Verifica\ la\ igualdad\ de\ contenidos\ entre\ dos\ objetos.\r\n\ @param\ otro\ El\ objeto\ a\ comparar\ con\ este.\r\n\ @return\ true\ si\ el\ argumento\ del\ objeto\ es\ un\ conjunto\ de\ datos\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ del\ contacto\ que\ coinciden\ sus\ atributos.\r\n
+comment5.params=otroContacto
+comment5.target=int\ compareTo(DatosDelContacto)
+comment5.text=\r\n\ Compara\ el\ contacto\ contra\ otro,\ con\ el\ objetivo\ de\ ordenar.\r\n\ Los\ campos\ para\ ordenar\ son\ nombre,\ telefono\ y\ direccion.\r\n\ @param\ otroContacto\ El\ contacto\ contra\ cual\ comparar.\r\n\ @return\ un\ entero\ negativo\ si\ se\ encuentra\ antes\ del\ parametro,\r\n\ \ \ \ \ \ \ \ \ \ \ \ cero\ si\ son\ iguales\ y\ un\ entero\ positivo\ si\ se\ encuentra\r\n\ \ \ \ \ \ \ \ \ \ \ \ despues\ del\ segundo.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ @return\ Un\ texto\ de\ m\u00FAltiples\ l\u00EDneas\ conteniendo\ el\ nombre,\r\n\ el\ tel\u00E9fono\ y\ la\ direcci\u00F3n.\r\n
+comment7.params=
+comment7.target=int\ hashCode()
+comment7.text=\r\n\ Calcula\ un\ c\u00F3digo\ de\ dispersi\u00F3n\ utilizando\ las\ reglas\ dadas\r\n\ en\ "Java\ Efectivo",\ de\ Joshua\ Bloch.\r\n\ @return\ Un\ c\u00F3digo\ de\ dispersi\u00F3n\ para\ DatosDelContacto.\r\n
+numComments=8

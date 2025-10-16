@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=VisorDeNumeros
+comment0.text=\n\ La\ clase\ VisorDeNumeros\ representa\ un\ visor\ digital\ de\ n\uFFFDmeros\ que\ puede\n\ mostrar\ valores\ desde\ cero\ hasta\ un\ determinado\ l\uFFFDmite.\ Se\ puede\ especificar\n\ el\ l\uFFFDmite\ cuando\ se\ crea\ visor.\ El\ rango\ de\ valores\ va\ desde\ cero\ (inclusive)\n\ hasta\ el\ l\uFFFDmite-1.\ Por\ ejemplo\ si\ se\ usa\ el\ visor\ para\ los\ segundos\ de\ un\n\ reloj\ digital,\ el\ l\uFFFDmite\ podr\uFFFDa\ ser\ 60,\ y\ como\ resultado\ se\ mostrar\uFFFDn\ los\n\ valores\ desde\ 0\ hasta\ 59.\ Cuando\ se\ incrementa\ el\ valor,\ el\ visor\ vuelve\n\ autom\uFFFDticamente\ al\ valor\ 0\ al\ alcanzar\ el\ valor\ l\uFFFDmite.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n\ Traducci\uFFFDn\ Carlos\ A.\ Bart\uFFFD\n
+comment1.params=limiteMaximo
+comment1.target=VisorDeNumeros(int)
+comment1.text=\n\ Constructor\ de\ objetos\ de\ la\ clases\ VisorDeNumeros\n\ Establece\ el\ l\uFFFDmite\ en\ el\ cual\ el\ visor\ vueve\ a\ cero.\n
+comment2.params=
+comment2.target=int\ getValor()
+comment2.text=\n\ Retorna\ el\ valor\ actual.\n
+comment3.params=nuevoValor
+comment3.target=void\ setValor(int)
+comment3.text=\n\ Configura\ el\ valor\ del\ visor\ con\ el\ nuevo\ valor\ especificado.\n\ Si\ el\ nuevo\ valor\ es\ menor\ que\ cero\ o\ si\ se\ pasa\ del\ l\uFFFDmite\ no\n\ hace\ nada.\n
+comment4.params=
+comment4.target=java.lang.String\ getValorDelVisor()
+comment4.text=\n\ Devuelve\ el\ n\uFFFDmero\ del\ visor\ (es\ decir,\ el\ valor\ actual,\ como\ una\ cadena\ \n\ de\ dos\ d\uFFFDgitos.\ Si\ el\ valor\ es\ menor\ que\ 10,\ se\ completa\ con\ un\ cero).\n
+comment5.params=
+comment5.target=void\ incrementar()
+comment5.text=\n\ Incrementa\ el\ valor\ del\ visor\ en\ uno,\ lo\ vuelve\ a\ cero\ si\ se\ alcanza\n\ el\ valor\ l\uFFFDmite.\n
+numComments=6

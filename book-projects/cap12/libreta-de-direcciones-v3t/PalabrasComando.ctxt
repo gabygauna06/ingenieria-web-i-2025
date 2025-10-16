@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PalabrasComando()
+comment0.text=\nConstructor\ para\ PalabrasComando\n\n
+comment1.params=unString
+comment1.target=boolean\ esComando(String)
+comment1.text=\nVerifica\ si\ un\ String\ dado\ es\ un\ comando\ valido.\n@param\ unString\ El\ texto\ a\ verificar.\n@return\ 'true'\ si\ es\ valido,\ 'false'\ si\ no\ lo\ es.\n\n
+comment2.target=void\ showTodos()
+comment2.text=\nMuestra\ los\ comandos\ validos\ en\ System.out.\n\n
+numComments=3

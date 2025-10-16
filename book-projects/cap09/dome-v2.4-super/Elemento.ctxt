@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Elemento
+comment0.text=\n\ La\ clase\ Elemento\ representa\ un\ elemento\ multimedia.\n\ Se\ almacena\ informaci\uFFFDn\ sobre\ el\ elemento\ que\ puede\ ser\n\ consultada.\ Esta\ clase\ sirve\ como\ una\ superclase\ para\n\ elementos\ m\uFFFDs\ espec\uFFFDficos.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traducci\uFFFDn\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=elTitulo\ tiempo
+comment1.target=Elemento(java.lang.String,\ int)
+comment1.text=\n\ Inicializa\ los\ campos\ del\ elemento.\n\ @param\ elTitulo\ El\ titulo\ del\ elemento.\n\ @param\ tiempo\ El\ tiempo\ que\ dura\ el\ elemento.\n
+comment2.params=comentario
+comment2.target=void\ setComentario(java.lang.String)
+comment2.text=\n\ Asigna\ un\ comentario\ para\ este\ elemento.\n\ @param\ comentario\ El\ comentario\ que\ se\ ingresar\uFFFD.\n
+comment3.params=
+comment3.target=java.lang.String\ getComentario()
+comment3.text=\n\ @return\ El\ comentario\ de\ este\ elemento.\n
+comment4.params=mePertenece
+comment4.target=void\ setLoTengo(boolean)
+comment4.text=\n\ Asigna\ el\ valor\ a\ la\ bandera\ que\ indica\ si\ tenemos\ este\ elemento.\n\ @param\ mePertenece\ true\ si\ tenemos\ el\ elemento,\ false\ en\ caso\ contrario.\n
+comment5.params=
+comment5.target=boolean\ getLoTengo()
+comment5.text=\n\ @return\ true\ si\ tenemos\ una\ copia\ de\ este\ elemento.\n
+comment6.params=
+comment6.target=void\ imprimir()
+comment6.text=\n\ Imprime\ en\ la\ terminal\ de\ texto\ los\ detalles\ de\ este\ elemento.\n
+numComments=7

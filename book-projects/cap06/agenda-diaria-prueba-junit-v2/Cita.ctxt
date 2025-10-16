@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=descripcion\ duracion
+comment0.target=Cita(java.lang.String,\ int)
+comment0.text=\r\n\ Crea\ una\ cita\ con\ una\ duracion\ determinada.\r\n\ @param\ descripcion\ El\ motivo\ de\ la\ cita.\r\n\ @param\ duracion\ La\ duraci\u00F3n\ de\ la\ cita\ en\ horas\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescripcion()
+comment1.text=\r\n\ @return\ El\ motivo\ de\ la\ cita.\r\n
+comment2.params=
+comment2.target=int\ getDuracion()
+comment2.text=\r\n\ @return\ La\ duraci\u00F3n\ de\ la\ cita\ (en\ horas)\r\n
+numComments=3

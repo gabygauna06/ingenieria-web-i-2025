@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=fila\ columna
+comment0.target=Ubicacion(int,\ int)
+comment0.text=\nRepresenta\ una\ fila\ y\ una\ columna.\n@param\ fila\ La\ fila.\n@param\ columna\ La\ columna.\n\n
+comment1.params=obj
+comment1.target=boolean\ equals(Object)
+comment1.text=\nImplementa\ la\ igualdad\ del\ contenido.\n\n
+comment2.target=String\ toString()
+comment2.text=\nDevuelve\ un\ texto\ de\ la\ forma\ fila,columna\n@return\ Un\ texto\ representando\ la\ posici\u00C3\u00B3n.\n\n
+comment3.target=int\ hashCode()
+comment3.text=\nUsa\ los\ 16\ bits\ superiores\ para\ el\ valor\ de\ fila\ y\ los\ inferiores\npara\ la\ columna.\ Excepto\ mallas\ muy\ grandes,\ esto\ deber\u00C3\u00ADa\ producir\nun\ c\u00C3\u00B3digo\ hash\ \u00C3\u00BAnico\ para\ cada\ par\ (fila,\ columna).\n@return\ Un\ c\u00C3\u00B3digo\ hash\ para\ la\ posici\u00C3\u00B3n.\n\n
+comment4.target=int\ getFila()
+comment4.text=\n@return\ La\ fila.\n\n
+comment5.target=int\ getColumna()
+comment5.text=\n@return\ La\ columna.\n\n
+numComments=6

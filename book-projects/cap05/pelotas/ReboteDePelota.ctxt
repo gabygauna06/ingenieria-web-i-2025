@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ReboteDePelota
+comment0.text=\n\ Class\ ReboteDePelota\ -representa\ una\ pelota\ que\ tiene\ en\ cuenta\ el\ efecto\ de\ la\ \n\ gravedad.\ La\ pelota\ puede\ moverse.\ Los\ detalles\ del\ movimiento\ estan\ determinados\n\ por\ la\ misma\ pelota.\ Cae\ hacia\ abajo\ acel\uFFFDrandose\ por\ el\ efecto\ gravitatorio,\n\ y\ rebota\ hacia\ arriba\ cuando\ golpea\ el\ piso.\n\n\ Este\ movimiento\ puede\ ser\ iniciado\ repetidamente\ llamando\ al\ m\uFFFDtodo\ "mover"\n\ \n\ @author\ Bruce\ Quig\n\ @author\ Michael\ Kolling\ (mik)\n\ @author\ David\ J.\ Barnes\n\n\ @version\ 2008.03.30\n
+comment1.params=xPos\ yPos\ diametroDePelota\ colorDePelota\ posPiso\ cuadroCanvas
+comment1.target=ReboteDePelota(int,\ int,\ int,\ java.awt.Color,\ int,\ Canvas)
+comment1.text=\n\ Constructor\ para\ objectos\ de\ la\ clase\ ReboteDePelota\n\n\ @param\ xPos\ \ coordenada\ horizontal\ de\ la\ pelota\n\ @param\ yPos\ \ coordenada\ vertical\ de\ la\ pelota\n\ @param\ diametroDePelota\ \ el\ diametro\ (en\ pixels)\ de\ la\ pelota\n\ @param\ colorDePelota\ \ el\ color\ de\ la\ pelota\n\ @param\ posPiso\ \ la\ posici\uFFFDn\ del\ piso\ (donde\ la\ pelota\ rebotar\uFFFD)\n\ @param\ cuadroCanvas\ \ el\ canvas\ donde\ se\ dibujar\uFFFD\ la\ pelota\n
+comment2.params=
+comment2.target=void\ dibujar()
+comment2.text=\n\ Dibuja\ la\ pelota\ en\ su\ posici\uFFFDn\ sobre\ el\ canvas.\n
+comment3.params=
+comment3.target=void\ borrar()
+comment3.text=\n\ Borra\ la\ pelota\ del\ canvas\n
+comment4.params=
+comment4.target=void\ mover()
+comment4.text=\n\ Mueve\ esta\ pelota\ de\ acuerdo\ a\ su\ posici\uFFFDn\ y\ velocida\ y\ la\ re-dibuja\n
+comment5.params=
+comment5.target=int\ getXPosicion()
+comment5.text=\n\ retorna\ la\ posici\uFFFDn\ horizontal\ de\ la\ pelota\n
+comment6.params=
+comment6.target=int\ getYPosicion()
+comment6.text=\n\ retorna\ la\ posici\uFFFDn\ vertical\ de\ la\ pelota\n\ \n\ @return\ la\ posicion\ en\ Y\n
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Habitacion
+comment0.text=\n\ Clase\ Habitacion\ -\ Una\ habitaci\uFFFDn\ en\ un\ juego\ de\ aventuras\n\n\ Esta\ clase\ es\ parte\ de\ la\ apliciaci\uFFFDn\ "World\ of\ Zuul".\ \n\ "World\ of\ Zuul"\ es\ un\ juego\ de\ aventuras\ sencillo\ basado\ en\ texto.\ \ \n\n\ Un\ objeto\ "Habitacion"\ representa\ una\ ubicaci\uFFFDn\ en\ el\ juego.\ Las\n\ habitaciones\ tienen\ salidas\ que\ conducen\ a\ otras\ habitaciones,\ indicadas\n\ como\ norte,\ sur,\ este\ y\ oeste.\ Para\ cada\ direcci\uFFFDn,\ una\ habitaci\uFFFDn\ \n\ mantiene\ una\ referencia\ a\ la\ habitaci\uFFFDn\ vecina,\ o\ null\ si\ no\ existe\ una\n\ en\ es\ direcci\uFFFDn.\n\ \n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=descripcion
+comment1.target=Habitacion(java.lang.String)
+comment1.text=\n\ Crea\ una\ habitaci\uFFFDn\ descrita\ por\ "descripcion".\ \n\ Inicialmente,\ la\ habitaci\uFFFDon\ no\ tiene\ salidas,\ "descripcion"\n\ es\ algo\ asi\ como\ "una\ cocina"\ o\ "un\ patio".\n\ \n\ @param\ descripcion\ La\ descripcion\ de\ la\ habitacion.\n
+comment2.params=norte\ este\ sur\ oeste
+comment2.target=void\ establecerSalida(Habitacion,\ Habitacion,\ Habitacion,\ Habitacion)
+comment2.text=\n\ Define\ las\ salidas\ de\ esta\ habitaci\uFFFDn.\ Cada\ direcci\uFFFDn\ conduce\ a\n\ otra\ habitaci\uFFFDn\ o\ bien\ es\ null\ (es\ decir,\ no\ hay\ salida).\n\ @param\ norte\ La\ salida\ norte.\n\ @param\ este\ La\ salida\ este.\n\ @param\ sur\ La\ salida\ sur.\n\ @param\ oeste\ La\ salida\ oeste.\n
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment3.text=\n\ @return\ La\ descripcion\ de\ la\ habitacion.\n
+numComments=4

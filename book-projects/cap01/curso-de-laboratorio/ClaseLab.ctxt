@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=maximoNumeroDeEstudiantes
+comment0.target=ClaseLab(int)
+comment0.text=\n\ Crea\ una\ ClaseLab\ con\ un\ n\uFFFDmero\ m\uFFFDximo\ de\ matr\uFFFDculas.\ Todos\ los\ otros\n\ detalles\ se\ establecen\ en\ los\ valores\ por\ defecto.\n
+comment1.params=nuevoEstudiante
+comment1.target=void\ matriculaEstudiante(Estudiante)
+comment1.text=\n\ Agrega\ un\ Estudiante\ a\ esta\ ClaseLab\n
+comment2.params=
+comment2.target=int\ numeroDeEstudiantes()
+comment2.text=\n\ Retorna\ el\ n\uFFFDmero\ de\ estudiantes\ actualmente\ matriculados\ en\ esta\ ClaseLab.\n
+comment3.params=aulaNumero
+comment3.target=void\ setAula(java.lang.String)
+comment3.text=\n\ Establece\ el\ n\uFFFDmero\ del\ aula\ para\ esta\ ClaseLab\n
+comment4.params=diaYHoraCadena
+comment4.target=void\ setHora(java.lang.String)
+comment4.text=\n\ Establece\ el\ horario\ para\ esta\ ClaseLab.\ El\ par\uFFFDmetro\ deber\uFFFDa\ definir\ \n\ el\ d\uFFFDa\ y\ la\ hora,\ tal\ como\ "Viernes,\ 10\:00"\n
+comment5.params=instructorNombre
+comment5.target=void\ setInstructor(java.lang.String)
+comment5.text=\n\ Establece\ el\ nombre\ del\ instructor\ para\ esta\ ClaseLab.\n
+comment6.params=
+comment6.target=void\ printList()
+comment6.text=\n\ Imprime\ una\ lista\ de\ la\ clase\ en\ la\ terminal,\ con\ otros\ detalles\ no\ estandard\n\ de\ la\ ClaseLab.\n
+numComments=7

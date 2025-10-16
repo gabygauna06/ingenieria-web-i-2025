@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjemploDisenoGrilla()
+comment0.text=\nConstructor\ de\ los\ objectos\ de\ la\ clase\ EjemploDisenoCaja\n\n
+comment1.target=void\ construirVentana()
+comment1.text=\nCrea\ una\ grilla\ 3x2\ para\ ubicar\ dentro\ cinco\ elementos.\n\n
+numComments=2

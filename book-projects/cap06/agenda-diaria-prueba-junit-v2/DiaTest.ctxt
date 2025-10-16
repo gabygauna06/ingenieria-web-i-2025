@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DiaTest
+comment0.text=\n\ La\ clase\ de\ prueba\ DiaTest.\n\n\ @author\ \ David\ J.\ Barnes\ and\ Michael\ Kolling\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=DiaTest()
+comment1.text=\n\ Constructor\ por\ defecto\ de\ la\ clase\ DiaTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Establece\ el\ fixture\ para\ la\ prueba\n\ Se\ invoca\ antes\ de\ la\ ejecuci\uFFFDn\ de\ cada\ m\uFFFDtodo.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Destruye\ el\ fixture\ para\ la\ prueba.\n\n\ \ Se\ invoca\ despu\uFFFDs\ de\ la\ ejecuci\uFFFDn\ de\ cada\ m\uFFFDtodo.\n
+comment4.params=
+comment4.target=void\ testAnotarTresCitas()
+comment4.text=\n\ Testea\ la\ funcionalidad\ b\uFFFDsica\ anotando\ tres\ citas\ al\ principio,\n\ final\ y\ en\ medio\ del\ d\uFFFDa\n
+comment5.params=
+comment5.target=void\ testDobleCita()
+comment5.text=\n\ Verifica\ que\ no\ est\uFFFD\ permitido\ anotar\ dos\ citas\ en\ el\ mismo\ horario\n
+comment6.params=
+comment6.target=void\ testTres()
+comment7.params=
+comment7.target=void\ testCitaFueraHorario()
+comment8.params=
+comment8.target=void\ testPruebaJUnit()
+numComments=9

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=diaNumero
+comment0.target=Dia(int)
+comment0.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Dia.\r\n\ @param\ diaNumero\ El\ n\u00FAmero\ de\ este\ d\u00EDa\ en\ el\ a\u00F1o(1-366).\r\n
+comment1.params=cita
+comment1.target=int\ bucarEspacio(Cita)
+comment1.text=\r\n\ Trata\ de\ bucar\ lugar\ para\ una\ nueva\ citat.\r\n\ @param\ cita\ La\ nueva\ cita\ que\ se\ ubicar\u00E1.\r\n\ @return\ La\ hora\ m\u00E1s\ temprana\ en\ que\ se\ puede\ ubicar\ la\ cita\r\n\ \ \ \ \ \ \ \ \ Devuelve\ -1\ si\ el\ epacio\ es\ insuficiente\r\n
+comment2.params=hora\ cita
+comment2.target=boolean\ anotarCita(int,\ Cita)
+comment2.text=\r\n\ Anota\ una\ cita.\r\n\ @param\ hora\ La\ hora\ en\ que\ comienza\ la\ cita.\r\n\ @param\ cita\ La\ cita\ que\ se\ har\u00E1.\r\n\ @return\ true\ si\ la\ cita\ fue\ exitosa,\r\n\ \ \ \ \ \ \ \ \ false\ en\ caso\ contrario.\r\n
+comment3.params=hora
+comment3.target=Cita\ getCita(int)
+comment3.text=\r\n\ @param\ hora\ A\ qu\u00E9\ hora\ del\ d\u00EDa.\ Debe\ ser\ una\ hora\ comprendida\ entre\r\n\ \ \ \ \ \ \ \ PRIMER_HORA\ y\ \ ULTIMA_HORA.\r\n\ @return\ La\ Cita\ a\ la\ hora\ dada.\ Devuelve\ null\ si\ la\ hora\ no\ es\ v\u00E1lida\r\n\ \ \ \ \ \ \ \ \ o\ si\ no\ hay\ ninguna\ cita\ en\ la\ hora\ dada.\r\n
+comment4.params=
+comment4.target=void\ mostrarCitas()
+comment4.text=\r\n\ Imprime\ la\ lista\ de\ las\ citas\ del\ d\u00EDa\r\n
+comment5.params=
+comment5.target=int\ getDiaNumero()
+comment5.text=\r\n\ @return\ El\ n\u00FAmero\ de\ este\ d\u00EDa\ en\ el\ a\u00F1o\ (1\ -\ 366).\r\n
+comment6.params=hora
+comment6.target=boolean\ horaValida(int)
+comment6.text=\r\n\ @return\ true\ si\ la\ hora\ est\u00E1\ comprendida\ entre\ la\ PRIMERA_HORA\ y\ la\r\n\ \ \ \ \ \ \ \ \ ULTIMA_HORA,\ false\ en\ caso\ contrario.\r\n
+numComments=7

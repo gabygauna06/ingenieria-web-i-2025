@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=servidor\ usuario
+comment0.target=ClienteDeCorreo(ServidorDeCorreo,\ String)
+comment0.text=\nCreate\ a\ mail\ client\ run\ by\ usuario\ and\ attached\ to\ the\ given\ servidor.\n\n
+comment1.target=ItemDeCorreo\ getSiguienteItemDeCorreo()
+comment1.text=\nRetorna\ el\ siguiente\ item\ de\ mail\ (si\ hay\ alguno)\ para\ este\ usuario.\n\n
+comment2.target=void\ imprimirSiguienteItemDeCorreo()
+comment2.text=\nImprime\ en\ la\ terminal\ de\ texto\ el\ siguiene\ item\ de\ mail\ (si\ hay\ alguno)\npara\ este\ usuario.\n\n
+comment3.params=para\ mensaje
+comment3.target=void\ enviarItemDeCorreo(String,\ String)
+comment3.text=\nEnv\u00EDa\ el\ mensaje\ al\ destinatario\ por\ medio\ del\nservidor\ adjunto.\n@param\ para\ El\ destinatario.\n@param\ mensaje\ El\ texto\ del\ mensaje\ a\ ser\ enviado.\n\n
+numComments=4

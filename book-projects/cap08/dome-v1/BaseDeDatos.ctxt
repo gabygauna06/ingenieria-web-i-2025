@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BaseDeDatos
+comment0.text=\n\ La\ clase\ BaseDeDatos\ proporciona\ facilidades\ para\ almacenar\ objetos\n\ CD\ y\ DVD.\ Se\ puede\ imprimir\ en\ la\ terminal\ de\ texto,\ un\ listado\ de\ todos\n\ los\ CD\ y\ DVD.\n\ \n\ Esta\ versi\u00F3n\ no\ graba\ los\ datos\ en\ el\ disco\ y\ no\ provee\ ninguna\ funci\u00F3n\n\ de\ b\u00FAsqueda.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @author\ Traducci\u00F3n\:\ Maximiliano\ A.\ Eschoyez\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=BaseDeDatos()
+comment1.text=\n\ Construye\ una\ BaseDeDatos\ vac\u00EDa.\n
+comment2.params=elCD
+comment2.target=void\ agregarCD(CD)
+comment2.text=\n\ Agrega\ un\ CD\ a\ la\ base\ de\ datos.\n\ @param\ elCD\ El\ CD\ que\ se\ agregar\u00E1\ a\ la\ base\ de\ datos.\n
+comment3.params=elDVD
+comment3.target=void\ agregarDVD(DVD)
+comment3.text=\n\ Agrega\ un\ DVD\ a\ la\ base\ de\ datos.\n\ @param\ elDVD\ El\ DVD\ que\ se\ agregar\u00E1\ a\ la\ base\ de\ datos.\n
+comment4.params=
+comment4.target=void\ listar()
+comment4.text=\n\ Imprime\ en\ la\ terminal\ de\ texto\ un\ listado\ de\ todos\ los\ CD\ y\ DVD\n\ que\ actualmente\ estan\ almacenados\ en\ la\ base\ de\ datos.\n
+numComments=5

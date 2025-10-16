@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Habitacion
+comment0.text=\n\ Clase\ Habitacion\ -\ Una\ habitacion\ en\ un\ juego\ de\ aventuras\n\n\ Esta\ clase\ es\ parte\ de\ la\ apliciacion\ "World\ of\ Zuul".\ \n\ "World\ of\ Zuul"\ es\ un\ juego\ de\ aventuras\ sencillo\ basado\ en\ texto.\ \ \n\n\ Un\ objeto\ "Habitacion"\ representa\ una\ ubicacion\ en\ el\ juego.\ Las\n\ habitaciones\ tienen\ salidas\ que\ conducen\ a\ otras\ habitaciones,\ indicadas\n\ como\ norte,\ sur,\ este\ y\ oeste.\ Para\ cada\ direccion,\ una\ habitacion\ \n\ mantiene\ una\ referencia\ a\ la\ habitacion\ vecina,\ o\ null\ si\ no\ existe\ una\n\ en\ es\ direccion.\n\ \n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\n
+comment1.params=descripcion
+comment1.target=Habitacion(java.lang.String)
+comment1.text=\n\ Crea\ una\ habitaci\uFFFDn\ descrita\ por\ "descripcion".\ \n\ Inicialmente,\ la\ habitaci\uFFFDon\ no\ tiene\ salidas,\ "descripcion"\n\ es\ algo\ asi\ como\ "una\ cocina"\ o\ "un\ patio".\n\ \n\ @param\ descripcion\ La\ descripcion\ de\ la\ habitacion.\n
+comment2.params=direccion\ vecina
+comment2.target=void\ establecerSalida(java.lang.String,\ Habitacion)
+comment2.text=\n\ Define\ las\ salidas\ de\ esta\ habitaci\uFFFDn.\n\ @param\ direccion\ La\ direccion\ de\ la\ salida\n\ @param\ vecina\ \ La\ habitacion\ a\ la\ cual\ esta\ salida\ conduce.\n
+comment3.params=
+comment3.target=java.lang.String\ getDescripcionCorta()
+comment3.text=\n\ @return\ La\ descripcion\ corta\ de\ esta\ habitaci\uFFFDn\n\ (la\ que\ se\ defini\uFFFD\ en\ el\ constructor).\n
+comment4.params=
+comment4.target=java.lang.String\ getDescripcionLarga()
+comment4.text=\n\ Devuelve\ una\ descripcion\ de\ la\ habitacion\ en\ la\ forma\:\n\ \ \ \ \ Usted\ esta\ en\ la\ cocina\n\ \ \ \ \ Salidas\:\ norte\ oeste\n\ @return\ Una\ descripcion\ larga\ de\ esta\ habitaci\uFFFDn\n
+comment5.params=
+comment5.target=java.lang.String\ getStringDeSalidas()
+comment5.text=\n\ Devuelve\ una\ cadena\ describiendo\ las\ salidas\ de\ la\ habitaci\uFFFDn,\ por\ ejemplo\n\ "\n\ Return\ a\ string\ describing\ the\ room's\ salidas,\ for\ example\n\ "Salidas\:\ norte\ oeste".\n\ @return\ Detalles\ de\ las\ salidas\ de\ la\ habitaci\uFFFDn\n
+comment6.params=direccion
+comment6.target=Habitacion\ getSalida(java.lang.String)
+comment6.text=\n\ Devuelve\ la\ habitaci\uFFFDn\ a\ la\ que\ se\ llega\ si\ vamos\ desde\ esta\ habitaci\uFFFDn\n\ en\ la\ direcci\uFFFDn\ "direccion".\ Si\ no\ hay\ habitaciones\ en\ esa\ direcci\uFFFDn,\n\ devuelve\ null.\n\ @param\ direccion\ La\ direcci\uFFFDn\ de\ salida\n\ @return\ La\ habitaci\uFFFDn\ en\ la\ direcci\uFFFDn\ se\uFFFDalada\n
+numComments=7

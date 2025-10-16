@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DiaTest()
+comment0.text=\n\ Constructor\ por\ defecto\ de\ la\ clase\ DiaTest\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Establece\ el\ fixture\ para\ la\ prueba\n\ Se\ invoca\ antes\ de\ la\ ejecuci\uFFFDn\ de\ cada\ m\uFFFDtodo.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ Destruye\ el\ fixture\ para\ la\ prueba.\n\n\ \ Se\ invoca\ despu\uFFFDs\ de\ la\ ejecuci\uFFFDn\ de\ cada\ m\uFFFDtodo.\n
+comment3.params=
+comment3.target=void\ testAnotarTresCitas()
+comment3.text=\n\ Testea\ la\ funcionalidad\ b\uFFFDsica\ anotando\ tres\ citas\ al\ principio,\n\ final\ y\ en\ medio\ del\ d\uFFFDa\n
+comment4.params=
+comment4.target=void\ testDobleCita()
+comment4.text=\n\ Verifica\ que\ no\ est\uFFFD\ permitido\ anotar\ dos\ citas\ en\ el\ mismo\ horario\n
+comment5.params=
+comment5.target=void\ testBuscarEspacio()
+comment6.params=
+comment6.target=void\ testHoraNoValida()
+numComments=7

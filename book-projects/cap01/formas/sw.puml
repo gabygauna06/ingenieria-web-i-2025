@@ -1,0 +1,12 @@
+@startuml
+
+class Canvas
+class Circulo
+class Cuadrado
+class Triangulo
+
+Canvas <.. Circulo
+Canvas <.. Triangulo
+Canvas <.. Cuadrado
+
+@end

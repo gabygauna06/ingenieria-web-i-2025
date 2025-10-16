@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Contestador()
+comment0.text=\n\ Crea\ un\ Contestador\n
+comment1.params=palabras
+comment1.target=java.lang.String\ generarRespuesta(java.util.HashSet)
+comment1.text=\n\ Genera\ una\ respuesta\ desde\ un\ set\ de\ palabras\ de\ entrada\ dado\n\ \n\ @param\ palabras\ \ Un\ set\ de\ palabras\ ingresado\ por\ el\ usuario\n\ @return\ \ \ \ \ \ \ Una\ cadena\ que\ se\ podr\uFFFDa\ mostrar\ como\ respuesta\n
+comment2.params=
+comment2.target=void\ rellenarRespuestas()
+comment2.text=\n\ Ingresar\ todas\ las\ palabras\ clave\ conocidas\ y\ sus\ respuesta\ asociadas\n\ en\ nuestro\ mapa\ de\ respuestas.\n
+comment3.params=
+comment3.target=void\ rellenarRespuestaPorDefecto()
+comment3.text=\n\ Construye\ una\ lista\ de\ respuestas\ por\ defecto\ desde\ donde\ se\ tomar\uFFFD\n\ una\ cuando\ no\ sepamso\ m\uFFFDs\ qu\uFFFD\ decir.\n
+comment4.params=
+comment4.target=java.lang.String\ elegirRespuestaPorDefecto()
+comment4.text=\n\ Selecciona\ una\ respuesta\ por\ defecto\ al\ azar.\n\ @return\ \ \ \ \ Una\ respuesta\ al\ azar\n
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=clave
+comment0.target=NoCoincideContactoException(String)
+comment0.text=\nAlmacena\ los\ datos\ erroneos.\n@param\ clave\ La\ clave\ que\ no\ coincide.\n\n
+comment1.target=String\ getClave()
+comment1.text=\n@return\ La\ clave\ en\ erronea.\n\n
+comment2.target=String\ toString()
+comment2.text=\n@return\ Una\ cadena\ de\ diagnostico\ que\ contiene\ la\ clave\ erronea.\n\n
+numComments=3

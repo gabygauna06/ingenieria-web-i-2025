@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Agenda
+comment0.text=\n\ Una\ clase\ para\ mantener\ una\ arbitrariamente\ larga\ lista\ de\ notas.\n\ Las\ notas\ se\ enumeran\ para\ la\ referencia\ externa\ de\ un\ usuario\ humano.\n\ En\ esta\ versi\uFFFDn\ la\ numeraci\uFFFDn\ de\ las\ notas\ comienzan\ en\ 0.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling.\n\ @version\ 2006.03.30\n
+comment1.params=
+comment1.target=Agenda()
+comment1.text=\n\ Realiza\ cualquier\ inicializacion\ que\ sea\ requerida\ para\ \n\ la\ agenda\n
+comment2.params=nota
+comment2.target=void\ guardarNota(java.lang.String)
+comment2.text=\n\ Almacena\ una\ nueva\ nota\ en\ la\ agenda.\n\ @param\ nota\ La\ nota\ a\ ser\ almacenada.\n
+comment3.params=
+comment3.target=int\ numeroDeNotas()
+comment3.text=\n\ @return\ El\ n\uFFFDmero\ de\ notas\ que\ tiene\ actualmente\ la\ agenda.\n
+comment4.params=numeroDeNota
+comment4.target=void\ removeNote(int)
+comment4.text=\n\ Retira\ una\ nota\ de\ la\ genda\ si\ esta\ existe.\n\ @param\ numeroDeNota\ The\ number\ of\ the\ note\ to\ be\ removed.\n
+comment5.params=
+comment5.target=void\ imprimirNotas()
+comment5.text=\n\ Lista\ todas\ las\ notas\ en\ la\ agenda.\n
+numComments=6
